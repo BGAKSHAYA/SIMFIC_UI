@@ -1,0 +1,74 @@
+<div class='results'>
+  <div *ngIf='RANKED_FEATURES.length'>
+    <span class='results--aspects'>For the searched book, key factors responsible for similar books in the list below are: </span>
+
+    <span class='results--topfeatures' placement="top" *ngFor='let aspect of Important_Aspects; let index = index'  ngbTooltip="{{Feature_Description[aspect]}}" >{{aspect}}<span *ngIf='index != Important_Aspects.length-1'>, </span>
+    </span>
+
+  </div>
+
+
+
+  <div *ngIf='!TOP_K_BOOKS.length' class="glyphicon glyphicon-refresh result--spinner"></div>   
+
+  <div *ngFor='let book of TOP_K_BOOKS; let index = index'
+    [class]='clicked_book_index == index ?  "results--container results--selected-container": "results--container"'>
+    <!-- If the see more of book is not clicked -->
+    <div *ngIf='resultBookDetails[index] && clicked_book_index != index'>
+
+      <img *ngIf='book.bookInfo && book.bookInfo.volumeInfo && book.bookInfo.volumeInfo.imageLinks' class="results--tumbnail results--thumbnail" src='{{book.bookInfo.volumeInfo.imageLinks.thumbnail}}'  />
+      <img *ngIf='!(book.bookInfo  && book.bookInfo.volumeInfo && book.bookInfo.volumeInfo.imageLinks)' class="results--tumbnail results--thumbnail" src='assets/noimage.png'   />
+        
+      <span class="results--title">{{resultBookDetails[index].bookName}}</span>
+        <span class="results--author">By {{resultBookDetails[index].bookAuthor}} </span>
+        <div *ngIf='Local_Aspects.get(book.bookId)'>
+          <span>Key factors that are similar for this book and {{searchedBookName}} are: </span> <br />
+          <span class='results--topfeatures' placement="top" *ngFor='let aspect of Local_Aspects.get(book.bookId); let index = index'  ngbTooltip="{{Feature_Description[aspect]}}" >{{aspect}}<span *ngIf='index != Local_Aspects.get(book.bookId).length-1'>, </span>
+          </span>
+        </div>
+        <br/>
+        <span class='results--description'  *ngIf="book.bookInfo && book.bookInfo.volumeInfo && book.bookInfo.volumeInfo.description">{{book.bookInfo.volumeInfo.description}}</span>
+        <span class='results--description' *ngIf="!(book.bookInfo && book.bookInfo.volumeInfo && book.bookInfo.volumeInfo.description)">No Summary available</span>
+        Rating:
+          <span [ngClass]="book.bookInfo && book.bookInfo.volumeInfo && book.bookInfo.volumeInfo.averageRating && book.bookInfo.volumeInfo.averageRating >=1 ? (book.bookInfo.volumeInfo.averageRating >=1.5 ? 'fa fa-star results--star-checked-half' : 'fa fa-star results--star-checked') : 'fa fa-star' "></span>
+          <span [ngClass]="book.bookInfo && book.bookInfo.volumeInfo && book.bookInfo.volumeInfo.averageRating && book.bookInfo.volumeInfo.averageRating >=2 ? (book.bookInfo.volumeInfo.averageRating >=2.5 ? 'fa fa-star results--star-checked-half' : 'fa fa-star results--star-checked') : 'fa fa-star' "></span>
+          <span [ngClass]="book.bookInfo && book.bookInfo.volumeInfo && book.bookInfo.volumeInfo.averageRating && book.bookInfo.volumeInfo.averageRating >=3 ? (book.bookInfo.volumeInfo.averageRating >=3.5 ? 'fa fa-star results--star-checked-half' : 'fa fa-star results--star-checked') : 'fa fa-star' "></span>
+          <span [ngClass]="book.bookInfo && book.bookInfo.volumeInfo && book.bookInfo.volumeInfo.averageRating && book.bookInfo.volumeInfo.averageRating >=4 ? (book.bookInfo.volumeInfo.averageRating >=4.5 ? 'fa fa-star results--star-checked-half' : 'fa fa-star results--star-checked') : 'fa fa-star' "></span>
+          <span [ngClass]="book.bookInfo && book.bookInfo.volumeInfo && book.bookInfo.volumeInfo.averageRating && book.bookInfo.volumeInfo.averageRating >=5 ?  'fa fa-star results--star-checked'  : 'fa fa-star' "></span>
+          <br />
+        
+        <span *ngIf='index==0' class="results--see_more results--see_more-first" #firstSeeMore (click)='seeMoreDetails(index, book)'>Read More</span>
+        <span *ngIf='index!=0' class="results--see_more" (click)='seeMoreDetails(index, book)'>Read More</span>
+    </div>
+    <!-- If the see more of book is clicked -->
+    <div *ngIf='resultBookDetails[index] && clicked_book_index == index'> 
+      <img *ngIf='book.bookInfo && book.bookInfo.volumeInfo.imageLinks' class="results--tumbnail results--thumbnail-large" src='{{book.bookInfo.volumeInfo.imageLinks.thumbnail}}'  />
+      <img *ngIf='!(book.bookInfo && book.bookInfo.volumeInfo.imageLinks)' class="results--tumbnail results--thumbnail-large" src='assets/noimage.png'   />
+      <span id='close' class="closebutton" (click)='collapseSeeMore()'>X</span>
+      <span class="results--title">{{resultBookDetails[index].bookName}}</span>
+
+      <div class="results--subtitle">
+        <span class="results--author">By {{resultBookDetails[index].bookAuthor}} </span>
+        <div *ngIf='Local_Aspects.get(book.bookId)'>
+          <span>Key factors that are similar for this book and {{searchedBookName}} are: </span> <br />
+          <span class='results--topfeatures' placement="top" *ngFor='let aspect of Local_Aspects.get(book.bookId); let index = index'  ngbTooltip="{{Feature_Description[aspect]}}" >{{aspect}}<span *ngIf='index != Local_Aspects.get(book.bookId).length-1'>, </span>
+          </span>
+        </div>
+        <br/>
+        <br /><span *ngIf="book.bookInfo && book.bookInfo.volumeInfo && book.bookInfo.volumeInfo.publisher">Publisher: {{book.bookInfo.volumeInfo.publisher}}</span>
+        <br /><span *ngIf="book.bookInfo && book.bookInfo.volumeInfo && book.bookInfo.volumeInfo.publishedDate">Published Date: {{book.bookInfo.volumeInfo.publishedDate}}</span>
+        <br /><span *ngIf="book.bookInfo && book.bookInfo.volumeInfo && book.bookInfo.volumeInfo.categories">Categories: {{book.bookInfo.volumeInfo.categories[0]}}</span>
+      </div>
+      
+      <span class='results--descriptionSeeMore' *ngIf="book.bookInfo && book.bookInfo.volumeInfo && book.bookInfo.volumeInfo.description">{{book.bookInfo.volumeInfo.description}}</span>
+      <span class='results--descriptionSeeMore' *ngIf="!(book.bookInfo && book.bookInfo.volumeInfo && book.bookInfo.volumeInfo.description)">No Summary available</span>
+      
+      <br /><br />Rating:
+      <span [ngClass]="book.bookInfo && book.bookInfo.volumeInfo && book.bookInfo.volumeInfo.averageRating && book.bookInfo.volumeInfo.averageRating >=1 ? (book.bookInfo.volumeInfo.averageRating >=1.5 ? 'fa fa-star results--star-checked-half' : 'fa fa-star results--star-checked') : 'fa fa-star' "></span>
+      <span [ngClass]="book.bookInfo && book.bookInfo.volumeInfo && book.bookInfo.volumeInfo.averageRating && book.bookInfo.volumeInfo.averageRating >=2 ? (book.bookInfo.volumeInfo.averageRating >=2.5 ? 'fa fa-star results--star-checked-half' : 'fa fa-star results--star-checked') : 'fa fa-star' "></span>
+      <span [ngClass]="book.bookInfo && book.bookInfo.volumeInfo && book.bookInfo.volumeInfo.averageRating && book.bookInfo.volumeInfo.averageRating >=3 ? (book.bookInfo.volumeInfo.averageRating >=3.5 ? 'fa fa-star results--star-checked-half' : 'fa fa-star results--star-checked') : 'fa fa-star' "></span>
+      <span [ngClass]="book.bookInfo && book.bookInfo.volumeInfo && book.bookInfo.volumeInfo.averageRating && book.bookInfo.volumeInfo.averageRating >=4 ? (book.bookInfo.volumeInfo.averageRating >=4.5 ? 'fa fa-star results--star-checked-half' : 'fa fa-star results--star-checked') : 'fa fa-star' "></span>
+      <span [ngClass]="book.bookInfo && book.bookInfo.volumeInfo && book.bookInfo.volumeInfo.averageRating && book.bookInfo.volumeInfo.averageRating >=5 ?  'fa fa-star results--star-checked'  : 'fa fa-star' "></span>
+    </div>
+  </div>
+</div>

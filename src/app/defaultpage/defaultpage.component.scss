@@ -1,0 +1,88 @@
+.defaultpage {
+    padding-left: 2em;
+    padding-top: 2em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+    &--title {
+        font-size:14pt;
+        font-style: italic;
+        display: block;
+    }
+    &--container {
+        transition: all 0.2s linear;
+        width: 14%;
+        min-width: 120px;
+        border-radius: 10px;
+        border: 1px solid #ccc;
+        background: ghostwhite;
+        margin-bottom: 10px;
+        margin-top: 10px;
+        display: inline-block;
+        margin-left: 1em;
+        position: relative;
+        box-shadow: 1px 2px 5px black;
+    }
+
+    &--thumbnail {
+        padding-bottom: 2px;
+        height: 100%;
+        width: 100%;
+        border-radius:10px; 
+        opacity: 1.0;
+        display: block;
+    }
+    &--flex {
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: space-around;
+    }
+    &--booktitle {
+        font-size: 13pt;
+        font-weight: 700;
+        color: maroon;
+    }
+    &--subtitle {
+        display: block;
+        font-size: 11pt;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    &--bookdetails{
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        opacity: 0;
+        border-radius:10px;
+        &:hover {
+            opacity: 1;
+            background-color: ghostwhite;
+            padding-left: 5px;
+        }
+    }
+    
+    &--author {
+        display: block;
+        font-size: 13pt;
+        margin-top: 3px;
+        margin-bottom: 3px;
+    }
+    &--result_strip{
+        margin-bottom: 10px;
+    }
+    &--star-checked {
+        color: orange;
+    }
+    &--star-checked-half{
+        color: orange;
+    }
+    &--description {
+        margin-bottom: 3px;
+    }
+}
+
+img:hover{
+     opacity: 0.3;
+     background-color: green($color: #000000);
+}

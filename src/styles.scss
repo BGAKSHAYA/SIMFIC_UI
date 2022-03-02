@@ -1,0 +1,57 @@
+/* You can add global styles to this file, and also import other style files */
+
+
+body{
+    margin-left: 10em;
+    margin-right: 10em;
+}
+
+@media only screen and (max-width: 1500px) {
+    body {
+        margin: 0 !important;  
+    }
+  }
+
+//Styles of tours in entire app
+.popover-title{
+    background-color: #17202A;
+    color:white;
+}
+.btn-hidden{
+    visibility: hidden;
+}
+.popover-navigation > button {
+    border-color: #b42828;
+    background-color: #b42828;
+    margin-left: 1em;
+    color: white;
+}
+.popover-navigation > .btn-group > button {
+    border-color: #b42828;
+    //background-color: #b42828;
+
+}
+
+.modal-open{
+    overflow: scroll;
+}
+
+.popover-navigation {
+    display: flex;
+}
+
+.tour-step-background {
+    background: transparent;
+}
+
+.tour-backdrop {
+    opacity: 0.4;
+}
+
+.tooltip{
+    opacity:1!important;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: #17202A;
+}
+
+

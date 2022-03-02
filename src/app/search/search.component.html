@@ -1,0 +1,95 @@
+<div class='search'>
+    <div class='search--header'>
+        <h1 class="search--title" (click)='navigateToHome()'>Similarity in Fiction - A Book Search System</h1>
+        <br />
+        <div class="search--searchbox form-group has-search dropdown" >
+            <input list="booknames" #bookNames class="form-control search--input tour-step tour-step-one" placeholder="Title/ Author/ Genre"
+            (input)='onSearch()' >
+            
+            <span class="fa fa-search form-control-feedback"></span>
+            <i class='glyphicon glyphicon-cog search--settings-icon' data-toggle="modal" data-target="#myModal"
+                title="Search Settings"></i>
+            
+            <datalist *ngIf='isChromeBrowser' id="booknames" class='search--dropdown' #bookDataList>
+                <option class='option' id='{{book.bookId}}' *ngFor="let book of filtered_books" value='{{book.bookName}}'>by {{book.bookAuthor.trim()}} ({{book.bookGenre}} Genre) 
+            </datalist>
+
+            <datalist *ngIf='isIEBrowser' id="booknames" class='search--dropdown' #bookDataList>
+                <option class='option' id='{{book.bookId}}' *ngFor="let book of filtered_books" value='{{book.bookName}} by {{book.bookAuthor.trim()}} ({{book.bookGenre}} Genre)'> 
+                </datalist>
+
+            <datalist *ngIf='!isChromeBrowser && !isIEBrowser' id="booknames" class='search--dropdown' #bookDataList>
+                <option class='option' id='{{book.bookId}}' *ngFor="let book of filtered_books" value='{{book.bookName}} by {{book.bookAuthor.trim()}} ({{book.bookGenre}} Genre)'> 
+            </datalist>
+            
+            <div class='search--options'>
+                <select class='search--tour-button search--system-select' #system (change)='onSystemChange(system.value)'>
+                        <option class='search--system-option' value='{{systemnames.simfic}}'>System A</option>
+                        <option class='search--system-option' value='{{systemnames.bag_of_words}}'>System B</option>
+                        <option class='search--system-option' value='{{systemnames.random}}'>System C</option>
+                </select>
+                
+                <button class="search--home-button" (click)='redirectForms()'>Feedback</button>
+                <button class="search--tour-button" (click)='startTourForApp()'>Start Tour</button>
+                <button class="search--home-button" (click)='navigateToHome()'>Home</button>
+            </div>
+                
+        </div>
+
+        <!-- Modal -->
+        <div class="modal fade modal-captcha" id="myModal" role="dialog">
+            <div class="modal-dialog modal-dialog-centered " role="document">
+                <!-- Modal content-->
+                <div class="modal-content color-black search--dialog">
+                    <div class="modal-header search--captcha-header ">
+                        <button type="button" class="close" data-dismiss="modal">&times;</button>
+                        <h4 class="modal-title search--captcha-title">Search Settings</h4>
+                    </div>
+                    <div class="modal-body search--settings-body">
+                        <span>Language: </span>
+                        <input type='radio' name='languages' value="en" (change)='onLanguageChange("en")' checked/> English
+                        <input type='radio' name='languages' value="de" (change)='onLanguageChange("de")'/> German
+                        <br /><br />
+                        Genre: <select class='search--dropdown' #genre (change)='onGenreChange(genre.value)'>
+                            <option [hidden]="selectedLanguage == languages.German"
+                                *ngFor="let genre of englishGenreList" [selected]='genre == selectedEnglishGenre'>
+                                {{genre}} </option>
+                            <option [hidden]="selectedLanguage == languages.English"
+                                *ngFor="let genre of germanGenreList" [selected]='genre == selectedGermanGenre'>
+                                {{genre}} </option>
+                        </select>
+                    </div>
+                    <div class="modal-footer search--captcha-footer">
+                        <button type="button" class="btn btn-primary search--captcha-button" data-dismiss="modal">Close</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div *ngIf='!sessionTime'>
+    <!-- CAPTCHA Modal -->
+    <button [hidden]='true' data-toggle="modal" data-target="#captchaModal" #captchaModal data-backdrop="false"
+        data-keyboard="false"></button>
+    <div class="modal fade modal-captcha" id="captchaModal" role="dialog">
+        <div class="modal-dialog modal-dialog-centered " role="document">
+            <!-- Modal content-->
+            <div class="modal-content modal-content-dialog search--captcha-dialog ">
+                <div class="modal-header search--captcha-header">
+                    <h4 class="modal-title search--captcha-title">Enter captcha to continue</h4>
+                </div>
+                <div class="modal-body search--captcha-body">
+                    {{randomNumber1}} + {{randomNumber2}} = <input class='search--captcha-input' type='text' (keyup)='checkCaptchaResult($event)' />
+                </div>
+                <div class="modal-footer search--captcha-footer">
+                    <button type="button" #captchaSubmit class="btn btn-primary search--captcha-button" data-dismiss="modal" [disabled]="!captchaResult"
+                        (click)="captureSessionInfo()">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<app-result *ngIf='searchedBook && sessionTime && !systemChanged' [searchedBook]='searchedBook' [searchedBookName]='searchedBookName' [searchResults]='searchResults'
+    [original_books]='original_books' [session_time]='sessionTime'></app-result>
+<app-defaultpage *ngIf='(!searchedBook && sessionTime) || (systemChanged && sessionTime)' (searchedBook)='onSearchWithId($event)'></app-defaultpage>

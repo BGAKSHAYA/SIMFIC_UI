@@ -1,0 +1,27 @@
+<div class="defaultpage">
+    <span class="defaultpage--title">Start your search with ...</span>
+    <div class="defaultpage--flex">
+        <div class="defaultpage--container" *ngFor='let book of defaultBookInfo' (click)="searchBook(book.bookId)" >
+
+            <div class="defaultpage--bookdetails">
+            <span class="defaultpage--booktitle">{{book.bookInfo.volumeInfo.title}}</span>
+            <div class="defaultpage--subtitle">
+                <span>By {{book.bookInfo.volumeInfo.authors[0]}} </span>
+                <br/>
+                <br /><span *ngIf="book.bookInfo.volumeInfo && book.bookInfo.volumeInfo.categories">Genre: {{book.bookInfo.volumeInfo.categories[0].split("/")[0]}}</span>
+            </div>
+                        
+            Rating:
+            <span [ngClass]="book.bookInfo.volumeInfo && book.bookInfo.volumeInfo.averageRating && book.bookInfo.volumeInfo.averageRating >=1 ? (book.bookInfo.volumeInfo.averageRating >=1.5 ? 'fa fa-star defaultpage--star-checked-half' : 'fa fa-star defaultpage--star-checked') : 'fa fa-star' "></span>
+            <span [ngClass]="book.bookInfo.volumeInfo && book.bookInfo.volumeInfo.averageRating && book.bookInfo.volumeInfo.averageRating >=2 ? (book.bookInfo.volumeInfo.averageRating >=2.5 ? 'fa fa-star defaultpage--star-checked-half' : 'fa fa-star defaultpage--star-checked') : 'fa fa-star' "></span>
+            <span [ngClass]="book.bookInfo.volumeInfo && book.bookInfo.volumeInfo.averageRating && book.bookInfo.volumeInfo.averageRating >=3 ? (book.bookInfo.volumeInfo.averageRating >=3.5 ? 'fa fa-star defaultpage--star-checked-half' : 'fa fa-star defaultpage--star-checked') : 'fa fa-star' "></span>
+            <span [ngClass]="book.bookInfo.volumeInfo && book.bookInfo.volumeInfo.averageRating && book.bookInfo.volumeInfo.averageRating >=4 ? (book.bookInfo.volumeInfo.averageRating >=4.5 ? 'fa fa-star defaultpage--star-checked-half' : 'fa fa-star defaultpage--star-checked') : 'fa fa-star' "></span>
+            <span [ngClass]="book.bookInfo.volumeInfo && book.bookInfo.volumeInfo.averageRating && book.bookInfo.volumeInfo.averageRating >=5 ?  'fa fa-star defaultpage--star-checked'  : 'fa fa-star' "></span>
+            </div>
+
+            <img  class="defaultpage--thumbnail" src='{{book.bookInfo.volumeInfo.imageLinks.thumbnail}}'  /> 
+
+        </div>
+    </div>
+
+</div>

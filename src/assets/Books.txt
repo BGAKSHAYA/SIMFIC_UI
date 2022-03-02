@@ -1,0 +1,1158 @@
+Category	BookID	BookName	Lang	Author
+Literary	2523	The Memoirs of Victor Hugo	en	Hugo, Victor
+Literary	17063	A Lost Leader	en	Pegram, Fred
+Literary	20580	Napoleon the Little	en	Hugo, Victor
+Literary	33546	The Missioner	en	Pegram, Fred
+Literary	53490	William Shakespeare	en	Hugo, Victor
+Literary	3805	The Vultures	en	Merriman, Henry Seton
+Literary	6517	The Grey Lady	en	Merriman, Henry Seton
+Literary	8158	Barlasch of the Guard	en	Merriman, Henry Seton
+Literary	8493	The Last Hope	en	Merriman, Henry Seton
+Literary	8805	From One Generation to Another	en	Merriman, Henry Seton
+Literary	8873	The Isle of Unrest	en	Merriman, Henry Seton
+Literary	8939	With Edged Tools	en	Merriman, Henry Seton
+Literary	8942	The Last Hope	en	Merriman, Henry Seton
+Literary	9195	The Slave of the Lamp	en	Merriman, Henry Seton
+Literary	10132	The Sowers	en	Merriman, Henry Seton
+Literary	10342	The Velvet Glove	en	Merriman, Henry Seton
+Literary	20243	Dross	en	Merriman, Henry Seton
+Literary	8941	Lord Kilgobbin	en	Lever, Charles James
+Literary	14373	A Noble Life	en	Craik, Dinah Maria Mulock
+Literary	31685	Nuts and Nutcrackers	en	Lever, Charles James
+Literary	32082	A Rent In A Cloud	en	Lever, Charles James
+Literary	32840	One Of Them	en	Lever, Charles James
+Literary	33556	The Fortunes Of Glencore	en	Lever, Charles James
+Literary	33604	Tony Butler	en	Lever, Charles James
+Literary	35500	Nuts and Nutcrackers	en	Lever, Charles James
+Literary	35717	Luttrell Of Arran	en	Lever, Charles James
+Literary	38253	A Description of the Coasts of East Africa and Malabar in the Beginning of the Sixteenth Century	en	MagalhÃƒÆ’Ã‚Â£es, FernÃƒÆ’Ã‚Â£o de
+Literary	48039	From the North Foreland to Penzance	en	Holland, Clive
+Literary	9973	Yorkshire	en	Home, Gordon
+Literary	15053	The Evolution of an English Town	en	Home, Gordon
+Literary	9306	Aesthetic as Science of Expression and General Linguistic	en	Croce, Benedetto
+Literary	36762	The Reform of Education	en	Croce, Benedetto
+Detective and Mystery	8221	A Study of Poetry	en	Perry, Bliss
+Detective and Mystery	502	Desert Gold	en	Grey, Zane
+Detective and Mystery	1095	The Light of the Western Stars	en	Grey, Zane
+Detective and Mystery	1261	Betty Zane	en	Grey, Zane
+Detective and Mystery	1300	Riders of the Purple Sage	en	Grey, Zane
+Detective and Mystery	1679	Hiram the Young Farmer	en	Todd, Burbank L.
+Detective and Mystery	1881	The Call of the Canyon	en	Grey, Zane
+Detective and Mystery	1882	The Young Forester	en	Grey, Zane
+Detective and Mystery	2057	The Last of the Plainsmen	en	Grey, Zane
+Detective and Mystery	2066	Wildfire	en	Grey, Zane
+Detective and Mystery	2070	To the Last Man	en	Grey, Zane
+Detective and Mystery	3457	The Man of the Forest	en	Grey, Zane
+Detective and Mystery	4552	The Border Legion	en	Grey, Zane
+Detective and Mystery	5067	The Rainbow Trail	en	Grey, Zane
+Detective and Mystery	9932	The Last Trail	en	Grey, Zane
+Detective and Mystery	10201	The Desert of Wheat	en	Grey, Zane
+Detective and Mystery	10585	My Strangest Case	en	Boothby, Guy
+Detective and Mystery	12225	Tales of lonely trails	en	Grey, Zane
+Detective and Mystery	13937	The Mysterious Rider	en	Grey, Zane
+Detective and Mystery	15580	The Rustlers of Pecos County	en	Grey, Zane
+Detective and Mystery	15673	The Day of the Beast	en	Grey, Zane
+Detective and Mystery	19246	The Young Pitcher	en	Grey, Zane
+Detective and Mystery	29346	Tales of Fishes	en	Grey, Zane
+Detective and Mystery	36492	The Kidnapped President	en	Boothby, Guy
+Detective and Mystery	36892	A Cabinet Secret	en	Boothby, Guy
+Detective and Mystery	37948	The Beautiful White Devil	en	Boothby, Guy
+Detective and Mystery	39731	The Marriage of Esther	en	Boothby, Guy
+Detective and Mystery	45974	Ken Ward in the Jungle	en	Grey, Zane
+Detective and Mystery	54771	A Prince of Swindlers	en	Boothby, Guy
+Detective and Mystery	12184	Abroad with the Jimmies	en	Bell, Lilian
+Detective and Mystery	12416	As Seen By Me	en	Bell, Lilian
+Detective and Mystery	18895	At Home with the Jardines	en	Bell, Lilian
+Detective and Mystery	40850	Carolina Lee	en	Bell, Lilian
+Detective and Mystery	1385	Lin McLean	en	Wister, Owen
+Detective and Mystery	1386	Lady Baltimore	en	Wister, Owen
+Detective and Mystery	13150	Through the Grand Canyon from Wyoming to Mexico	en	Wister, Owen
+Detective and Mystery	28675	Red Men and White	en	Wister, Owen
+Detective and Mystery	37758	Atlantic Classics	en	Wister, Owen
+Western Stories	166	Summer	en	Wharton, Edith
+Western Stories	283	The Reef	en	Wharton, Edith
+Western Stories	284	The House of Mirth	en	Wharton, Edith
+Western Stories	541	The Age of Innocence	en	Wharton, Edith
+Western Stories	1263	The Glimpses of the Moon	en	Wharton, Edith
+Western Stories	4327	The Valley of Decision	en	Wharton, Edith
+Western Stories	4514	Tales of Men and Ghosts	en	Wharton, Edith
+Western Stories	4519	The Descent of Man and Other Stories	en	Wharton, Edith
+Western Stories	5828	In the Pecos Country	en	Ellis, Edward Sylvester
+Western Stories	6906	The Lost Trail	en	Ellis, Edward Sylvester
+Western Stories	7516	Crucial Instances	en	Wharton, Edith
+Western Stories	9190	The Greater Inclination	en	Wharton, Edith
+Western Stories	11052	The Custom of the Country	en	Wharton, Edith
+Western Stories	11104	In Morocco	en	Wharton, Edith
+Western Stories	16855	The Land of Mystery	en	Ellis, Edward Sylvester
+Western Stories	17253	Dewey and Other Naval Commanders	en	Ellis, Edward Sylvester
+Western Stories	19191	The Fruit of the Tree	en	Wharton, Edith
+Western Stories	22646	The Hunters of the Ozark	en	Ellis, Edward Sylvester
+Western Stories	23026	The Phantom of the River	en	Ellis, Edward Sylvester
+Western Stories	25334	Deerfoot in The Mountains	en	Ellis, Edward Sylvester
+Western Stories	25980	Footprints in the Forest	en	Ellis, Edward Sylvester
+Western Stories	29693	A Waif of the Mountains	en	Ellis, Edward Sylvester
+Western Stories	30212	The Great Cattle Trail	en	Ellis, Edward Sylvester
+Western Stories	30335	The Wilderness Fugitives	en	Ellis, Edward Sylvester
+Western Stories	31421	Through Apache Land	en	Ellis, Edward Sylvester
+Western Stories	41784	Wyoming	en	Ellis, Edward Sylvester
+Western Stories	43079	The Boy Patrol on Guard	en	Ellis, Edward Sylvester
+Western Stories	43218	The Boy Patrol Around the Council Fire	en	Ellis, Edward Sylvester
+Western Stories	48970	Across Texas	en	Ellis, Edward Sylvester
+Western Stories	50823	The Flying Boys in the Sky	en	Ellis, Edward Sylvester
+Western Stories	2866	Windsor Castle	en	Ainsworth, William Harrison
+Western Stories	23564	Rookwood	en	Ainsworth, William Harrison
+Horror and Ghost	46129	The Data of Ethics	en	Spencer, Herbert
+Horror and Ghost	55046	First Principles	en	Spencer, Herbert
+Horror and Ghost	4555	Percy Bysshe Shelley	en	Symonds, John Addington
+Horror and Ghost	11242	The Life of Michelangelo Buonarroti	en	Symonds, John Addington
+Horror and Ghost	25842	Royal Palaces and Parks of France	en	McManus, Blanche
+Horror and Ghost	27015	More Science From an Easy Chair	en	Lankester, E. Ray (Edwin Ray), Sir
+Horror and Ghost	29820	The Cathedrals of Northern France	en	McManus, Blanche
+Horror and Ghost	31936	The Cathedrals and Churches of the Rhine	en	McManus, Blanche
+Horror and Ghost	35212	The Cathedrals of Southern France	en	McManus, Blanche
+Horror and Ghost	37211	Castles and Chateaux of Old Touraine and the Loire Country	en	McManus, Blanche
+Horror and Ghost	42866	Rambles in Brittany	en	McManus, Blanche
+Horror and Ghost	42899	Rambles in Normandy	en	McManus, Blanche
+Horror and Ghost	42941	Rambles on the Riviera	en	McManus, Blanche
+Horror and Ghost	43609	Castles and Chateaux of Old Navarre and the Basque Provinces	en	McManus, Blanche
+Horror and Ghost	44212	Italian Highways and Byways from a Motor Car	en	McManus, Blanche
+Horror and Ghost	46678	Castles and Chateaux of Old Burgundy	en	McManus, Blanche
+Horror and Ghost	9799	It Happened in Egypt	en	Williamson, C. N. (Charles Norris)
+Horror and Ghost	10410	The Powers and Maxine	en	Williamson, C. N. (Charles Norris)
+Horror and Ghost	11016	The Port of Adventure	en	Williamson, C. N. (Charles Norris)
+Horror and Ghost	14740	The Princess Passes	en	Williamson, C. N. (Charles Norris)
+Horror and Ghost	17342	The Motor Maid	en	Williamson, C. N. (Charles Norris)
+Horror and Ghost	18470	The Second Latchkey	en	Williamson, C. N. (Charles Norris)
+Horror and Ghost	19108	The Golden Silence	en	Williamson, C. N. (Charles Norris)
+Horror and Ghost	19412	Set in Silver	en	Williamson, C. N. (Charles Norris)
+Horror and Ghost	19441	My Friend the Chauffeur	en	Williamson, C. N. (Charles Norris)
+Horror and Ghost	19569	The Guests Of Hercules	en	Williamson, C. N. (Charles Norris)
+Horror and Ghost	20815	A Soldier of the Legion	en	Williamson, C. N. (Charles Norris)
+Horror and Ghost	21529	The Chauffeur and the Chaperon	en	Williamson, C. N. (Charles Norris)
+Horror and Ghost	23441	Lady Betty Across the Water	en	Williamson, C. N. (Charles Norris)
+Horror and Ghost	23500	The Car of Destiny	en	Williamson, C. N. (Charles Norris)
+Horror and Ghost	29083	The Lightning Conductor Discovers America	en	Williamson, C. N. (Charles Norris)
+Horror and Ghost	29715	The Princess Virginia	en	Williamson, C. N. (Charles Norris)
+Horror and Ghost	32428	The Brightener	en	Williamson, C. N. (Charles Norris)
+Horror and Ghost	33995	Where the Path Breaks	en	Williamson, C. N. (Charles Norris)
+Horror and Ghost	34919	Vision House	en	Williamson, C. N. (Charles Norris)
+Horror and Ghost	38470	Lord John in New York	en	Williamson, C. N. (Charles Norris)
+Horror and Ghost	39984	Lord Loveland Discovers America	en	Williamson, C. N. (Charles Norris)
+Humor, wit and satire	15670	The Secret Chamber at Chad	en	Everett-Green, Evelyn
+Humor, wit and satire	40508	True Stories of Girl Heroines	en	Everett-Green, Evelyn
+Humor, wit and satire	45201	Fallen Fortunes	en	Everett-Green, Evelyn
+Humor, wit and satire	54994	Squib and His Friends	en	Everett-Green, Evelyn
+Humor, wit and satire	31590	Scouting with Daniel Boone	en	Tomlinson, Everett T. (Everett Titsworth)
+Humor, wit and satire	31914	The Story of General Pershing	en	Tomlinson, Everett T. (Everett Titsworth)
+Humor, wit and satire	39473	The Young Sharpshooter at Antietam	en	Tomlinson, Everett T. (Everett Titsworth)
+Humor, wit and satire	40927	Scouting with Kit Carson	en	Tomlinson, Everett T. (Everett Titsworth)
+Humor, wit and satire	38280	Modern Essays	en	Dounce, Harry Esty
+Humor, wit and satire	573	Tales from Shakespeare	en	Lamb, Charles
+Humor, wit and satire	996	Don Quixote	en	Cervantes Saavedra, Miguel de
+Humor, wit and satire	10125	The Best Letters of Charles Lamb	en	Lamb, Charles
+Humor, wit and satire	14420	The Exemplary Novels of Cervantes	en	Cervantes Saavedra, Miguel de
+Humor, wit and satire	20657	Tales from Shakespeare	en	Lamb, Charles
+Humor, wit and satire	24754	Wit and Wisdom of Don Quixote	en	Cervantes Saavedra, Miguel de
+Humor, wit and satire	29468	The Story of Don Quixote	en	Cervantes Saavedra, Miguel de
+Humor, wit and satire	35993	The History of Don Quixote de la Mancha	en	Cervantes Saavedra, Miguel de
+Humor, wit and satire	16921	Plague Ship	en	Norton, Andre
+Humor, wit and satire	18458	Star Born	en	Norton, Andre
+Humor, wit and satire	18817	Ralestone Luck	en	Norton, Andre
+Humor, wit and satire	19145	The Time Traders	en	Norton, Andre
+Humor, wit and satire	19651	Key Out of Time	en	Norton, Andre
+Humor, wit and satire	20788	Storm Over Warlock	en	Norton, Andre
+Humor, wit and satire	20840	Rebel Spurs	en	Norton, Andre
+Humor, wit and satire	25550	The Defiant Agents	en	Norton, Andre
+Humor, wit and satire	34506	German Fiction	en	Goethe, Johann Wolfgang von
+Romance	22214	Molly Bawn	en	Duchess
+Romance	31492	Rossmoyne	en	Duchess
+Romance	35228	Airy Fairy Lilian	en	Duchess
+Romance	41496	Addison	en	Courthope, William John
+Romance	25345	The Goose Man	en	Wassermann, Jakob
+Romance	39254	Held by Chinese Brigands	en	Gilson, Charles
+Romance	39387	Submarine U93	en	Gilson, Charles
+Romance	42308	Overland Tales	en	Clifford, Josephine
+Adventure	13501	Lady Connie	en	Sterner, Albert
+Adventure	14126	The Marriage of William Ashe	en	Sterner, Albert
+Adventure	29728	Cookery and Dining in Imperial Rome	en	Apicius
+Adventure	38448	Modern Magic	en	Schele de Vere, M. (Maximilian)
+Adventure	44430	Myths of the Rhine	en	Schele de Vere, M. (Maximilian)
+Adventure	388	The Crossing	en	Churchill, Winston
+Adventure	5400	Project Gutenberg Complete Works of Winston Churchill	en	Churchill, Winston
+Adventure	34632	Selected Sermons of Jonathan Edwards	en	Edwards, Jonathan
+Literary	10826	The Book-Bills of Narcissus - An Account Rendered by Richard Le Gallienne	en	Richard Le Gallienne
+Literary	20359	The Lovely Lady	en	Mary Hunter Austin
+Literary	20424	A Son of the Hills	en	Harriet T. Comstock
+Literary	20429	The Seventh Noon	en	Frederick Orin Bartlett
+Literary	20462	Ernest Linwood- The Inner Life of the Author	en	Caroline Lee Hentz
+Literary	20610	The Complete Prose Works of Martin Farquhar Tupper	en	Martin Farquhar Tupper
+Literary	20615	The Master-Knot of Human Fate	en	Ellis Meredith
+Romance	20661	The Romance of an Old Fool	en	Roswell Martin Field
+Literary	20835	The Monctons: A Novel. Volume 1 (of 2)	en	Susanna Moodie
+Romance	20901	In Apple-Blossom Time: A Fairy-Tale to Date	en	Clara Louise Burnham
+Detective and Mystery	10067	The Mystery of the Boule Cabinet: A Detective Story	en	Burton Egbert Stevenson
+Literary	1032	The Pupil	en	Henry James
+Literary	10379	At Love's Cost	en	Charles Garvice
+Western Stories	10473	The Heart of the Range	en	William Patterson White
+Literary	10812	The Worshipper of the Image	en	Richard Le Gallienne
+Detective and Mystery	10943	Elusive Isabel	en	Jacques Futrelle
+Literary	11004	Joe Burke's Last Stand	en	John Moncure Wetterau
+Literary	11005	O+F	en	John Moncure Wetterau
+Literary	11259	Polly and the Princess	en	Emma C. Dowd
+Literary	11280	Maggie Miller: The Story of Old Hagar's Secret	en	Mary Jane Holmes
+Literary	11520	The Obstacle Race	en	Ethel M. Dell
+Literary	11581	From out the Vasty Deep	en	Marie Belloc Lowndes
+Literary	11655	Fate Knocks at the Door: A Novel	en	Will Levington Comfort
+Literary	11674	The Torrent (Entre Naranjos)	en	Vicente Blasco Ibez
+Horror and Ghost	1190	The Jolly Corner	en	Henry James
+Literary	1193	The Coxon Fund	en	Henry James
+Literary	11931	The Mystery of Monastery Farm	en	H. R. Naylor
+Literary	11970	Wife in Name Only	en	Charlotte M. Brame
+Literary	12102	Darrel of the Blessed Isles	en	Irving Bacheller
+Detective and Mystery	1218	The Adventures of Jimmie Dale	en	Frank L. Packard
+Literary	12181	The Story of Bessie Costrell	en	Mrs. Humphry Ward
+Literary	12303	Fated to Be Free: A Novel	en	Jean Ingelow
+Literary	12304	Nancy: A Novel	en	Rhoda Broughton
+Literary	12360	The Top of the World	en	Ethel M. Dell
+Literary	12450	The Reason Why	en	Elinor Glyn
+Literary	12453	Miriam Monfort - A Novel	en	Catherine A. Warfield
+Literary	12470	A Perilous Secret	en	Charles Reade
+Literary	12520	Deadham Hard: A Romance	en	Lucas Malet
+Literary	1253	A Simple Soul	en	Gustave Flaubert
+Literary	12672	A Spinner in the Sun	en	Myrtle Reed
+Literary	1273	The Autobiography of a Slander	en	Edna Lyall
+Literary	12733	Tokyo to Tijuana: Gabriele Departing America	en	Steven David Justin Sills
+Literary	12886	The Coquette's Victim - Everyday Life Library No. 1	en	Charlotte M Brame
+Literary	12935	The Song of the Blood-Red Flower	en	Johannes Linnankoski
+Literary	12972	People Like That - A Novel	en	Kate Langley Bosher
+Literary	12989	The Lady of Big Shanty	en	F. Berkeley Smith
+Literary	13057	The Philanderers	en	A. E. W. Mason
+Literary	13162	Coralie - Everyday Life Library No. 2	en	Charlotte M. Brame
+Literary	13178	Broken to the Plow - A Novel	en	Charles Caldwell Dobie
+Literary	13212	The Wild Olive: A Novel	en	Basil King
+Literary	13257	The American Baron: A Novel	en	James De Mille
+Literary	13273	Out of the Ashes	en	Ethel Watts Mumford Grant
+Literary	13312	The Light That Lures	en	Percy James Brebner
+Literary	13432	Miss Bretherton	en	Mrs. Humphry Ward
+Literary	13454	Aylwin	en	Theodore Watts-Dunton
+Literary	13541	The Collected Works of Ambrose Bierce- Volume 1	en	Ambrose Bierce
+Literary	13572	The Son of Clemenceau- A Novel of Modern Love and Life	en	Alexandre Dumas
+Literary	13776	One Day  A sequel to 'Three Weeks'	en	Elinor Glyn
+Literary	13913	The Port of Missing Men	en	Meredith Nicholson
+Romance	13960	Charles Rex	en	Ethel M. Dell
+Literary	13985	V. V.'s Eyes	en	Henry Sydnor Harrison
+Romance	14051	The End of the World: A Love Story	en	Edward Eggleston
+Adventure	14079	Sandy	en	Alice Caldwell Hegan Rice
+Literary	14145	If Winter Comes	en	A. S. M. Hutchinson
+Literary	1422	Going into Society	en	Charles Dickens
+Literary	14303	Queed - A Novel	en	Henry Sydnor Harrison
+Literary	14382	The Missing Bride	en	Emma Dorothy Eliza Nevitte Southworth
+Literary	14395	Septimus	en	William John Locke
+Literary	14427	True Love's Reward - A Sequel to Mona	en	Mrs. Georgie Sheldon
+Literary	14454	The Doctor's Dilemma	en	Hesba Stretton
+Literary	14490	A Daughter of To-Day	en	Sara Jeannette Duncan
+Literary	14523	Sister Carmen	en	M. Corvus
+Literary	14581	The Just and the Unjust	en	Vaughan Kester
+Literary	14605	The Devil's Garden	en	W. B. Maxwell
+Literary	14669	Jaffery	en	William John Locke
+Literary	14687	Christian's Mistake	en	Dinah Maria Mulock Craik
+Romance	14708	The Laurel Bush: An Old-Fashioned Love Story	en	Dinah Maria Mulock Craik
+Literary	14712	Vandover and the Brute	en	Frank Norris
+Literary	14852	The Younger Set	en	Robert W. Chambers
+Literary	14858	The Man Thou Gavest	en	Harriet T. Comstock
+Literary	14885	Red Pottage	en	Mary Cholmondeley
+Literary	15013	The Keeper of the Door	en	Ethel M. Dell
+Literary	15067	The Cathedral	en	J.-K. Huysmans
+Literary	15094	The Cab of the Sleeping Horse	en	John Reed Scott
+Literary	15116	The Jervaise Comedy	en	J. D. Beresford
+Literary	15117	Sea and Shore - A Sequel to "Miriam's Memoirs"	en	Catherine A. Warfield
+Literary	15123	David LockwinÃ¢â‚¬â€The People's Idol	en	John McGovern
+Literary	15179	The Inner Sisterhood - A Social Study in High Colors	en	Douglass Sherley
+Literary	15181	My Mother's Rival - Everyday Life Library No. 4	en	Charlotte M. Brame
+Literary	15182	Marion Arleigh's Penance - Everyday Life Library No. 5	en	Charlotte M. Brame
+Literary	15183	The Tragedy of the Chain Pier - Everyday Life Library No. 3	en	Charlotte M. Brame
+Literary	15244	Lewie - The Bended Twig	en	Sarah H. Bradford
+Literary	15275	Bessie's Fortune: A Novel	en	Mary Jane Holmes
+Literary	15315	Gladys- the Reaper	en	Anne Beale
+Literary	15317	The Baronet's Bride- A Woman's Vengeance	en	May Agnes Fleming
+Literary	15321	Tracy Park: A Novel	en	Mary Jane Holmes
+Literary	15430	The Lever: A Novel	en	William Dana Orcutt
+Literary	15498	Trumps	en	George William Curtis
+Literary	15527	Captivity	en	Leonora Eyles
+Literary	15671	A Splendid Hazard	en	Harold MacGrath
+Literary	15704	Far to Seek - A Romance of England and India	en	Maud Diver
+Literary	15743	Bunker Bean	en	Harry Leon Wilson
+Literary	15774	Ishmael- In the Depths	en	Emma Dorothy Eliza Nevitte Southworth
+Literary	15793	An Unpardonable Liar	en	Gilbert Parker
+Literary	15797	The Seeker	en	Harry Leon Wilson
+Literary	15799	Walter Harland - Memories of the Past	en	Harriet S. Caswell
+Literary	15864	Garman and Worse: A Norwegian Novel	en	Alexander Lange Kielland
+Literary	15875	The Unseen Bridegroom- Wedded For a Week	en	May Agnes Fleming
+Literary	15934	His Excellency the Minister	en	Jules Claretie
+Literary	15941	An Englishwoman's Love-Letters	en	Laurence Housman
+Literary	15989	The Fatal Glove	en	Clara Augusta
+Literary	16039	The Lost Lady of Lone	en	Emma Dorothy Eliza Nevitte Southworth
+Literary	16080	Uncle Max	en	Rosa Nouchette Carey
+Literary	16094	For Woman's Love	en	Emma Dorothy Eliza Nevitte Southworth
+Literary	16138	The Cromptons	en	Mary Jane Holmes
+Literary	16143	A Man and a Woman	en	Stanley Waterloo
+Literary	16217	Prince Fortunatus	en	William Black
+Literary	16252	Jan: A Dog and a Romance	en	A. J. Dawson
+Literary	16283	Idolatry: A Romance	en	Julian Hawthorne
+Literary	1634	The Foolish Virgin	en	Thomas Dixon
+Literary	16345	Ellen Walton - The Villain and His Victims	en	Alvin Addison
+Literary	16381	The Summons	en	A. E. W. Mason
+Literary	16398	What Necessity Knows	en	L. Dougall
+Literary	16403	Led Astray and The Sphinx - Two Novellas In One Volume	en	Octave Feuillet
+Literary	16453	The Measure of a Man	en	Amelia E. Barr
+Romance	16497	The Moon out of Reach	en	Margaret Pedler
+Literary	16574	The Twins - A Domestic Novel	en	Martin Farquhar Tupper
+Literary	16612	The Lee Shore	en	Rose Macaulay
+Literary	16662	Bad Hugh	en	Mary Jane Holmes
+Literary	16676	Eveline Mandeville - The Horse Thief Rival	en	Alvin Addison
+Literary	16682	Adrien Leroy	en	Charles Garvice
+Literary	16703	A Comedy of Masks: A Novel	en	Dowson
+Literary	16719	The Husbands of Edith	en	George Barr McCutcheon
+Literary	16720	Marzio's Crucifix and Zoroaster	en	F. Marion Crawford
+Literary	16730	Mike Fletcher: A Novel	en	George Augustus Moore
+Literary	16771	Jacqueline of Golden River	en	H. M. Egbert
+Literary	16788	My Little Lady	en	E. Frances Poynter
+Literary	16798	Elster's Folly: A Novel	en	Mrs. Henry Wood
+Literary	16799	Dangerous Ages	en	Rose Macaulay
+Literary	16803	Lydia of the Pines	en	Honor Morrow
+Literary	16836	Mark Hurdlestone - The Two Brothers	en	Susanna Moodie
+Literary	16909	The Halo	en	Bettina Von Hutten
+Detective and Mystery	16919	The Bradys and the Girl Smuggler Working for the Custom House	en	Francis Worcester Doughty
+Literary	16968	The Bad Man: A Novel	en	Browne
+Detective and Mystery	1699	The Vanished Messenger	en	E. Phillips Oppenheim
+Literary	16993	Miss Dexie - A Romance of the Provinces	en	Stanford Eveleth
+Adventure	17047	The Half-Hearted	en	John Buchan
+Literary	17048	The Man and the Moment	en	Elinor Glyn
+Literary	17062	The Crock of Gold - A Rural Novel	en	Martin Farquhar Tupper
+Literary	17141	Destiny	en	Charles Neville Buck
+Literary	17191	The Actress in High Life - An Episode in Winter Quarters	en	Sue Petigru Bowen
+Literary	17241	Atlantis	en	Gerhart Hauptmann
+Literary	17308	Sunrise	en	William Black
+Romance	17359	Arms and the Woman	en	Harold MacGrath
+Literary	17390	Hearts and Masks	en	Harold MacGrath
+Literary	17402	The Adventures of Kathlyn	en	Harold MacGrath
+Literary	17446	The Second Honeymoon	en	Ruby M. Ayres
+Literary	1747	The Red Seal	en	Natalie Sumner Lincoln
+Detective and Mystery	1748	Other People's Money	en	Emile Gaboriau
+Literary	17559	On the Church Steps	en	Sarah C. Hallowell
+Literary	17564	By the Light of the Soul: A Novel	en	Mary Eleanor Wilkins Freeman
+Literary	17698	Bella Donna: A Novel	en	Robert Hichens
+Literary	17745	The Courage of Marge O'Doone	en	James Oliver Curwood
+Literary	17806	Foes in Ambush	en	Charles King
+Literary	17938	Contrary Mary	en	Temple Bailey
+Literary	18022	Betty at Fort Blizzard	en	Molly Elliot Seawell
+Literary	18052	Medoline Selwyn's Work	en	Mrs. J. J. Colter
+Literary	18054	The Zeit-Geist	en	L. Dougall
+Western Stories	1809	Bucky O'Connor: A Tale of the Unfenced Border	en	William MacLeod Raine
+Literary	18239	The Road to Mandalay - A Tale of Burma	en	B. M. Croker
+Literary	18259	Gentle Julia	en	Booth Tarkington
+Literary	18280	Enter Bridget	en	Thomas Cobb
+Detective and Mystery	1832	The Case of the Lamp That Went Out	en	Auguste Groner
+Detective and Mystery	1833	The Case of the Registered Letter	en	Auguste Groner
+Literary	18336	The Lighted Match	en	Charles Neville Buck
+Detective and Mystery	1834	The Case of the Pocket Diary Found in the Snow	en	Auguste Groner
+Detective and Mystery	1835	The Case of the Pool of Blood in the Pastor's Study	en	Auguste Groner
+Detective and Mystery	1836	The Case of the Golden Bullet	en	Auguste Groner
+Literary	18434	A Melody in Silver	en	Keene Abbott
+Literary	18443	Parrot & Co.	en	Harold MacGrath
+Literary	18449	The Treasure of Heaven: A Romance of Riches	en	Marie Corelli
+Western Stories	1846	The Vision Splendid	en	William MacLeod Raine
+Literary	18488	The Place Beyond the Winds	en	Harriet T. Comstock
+Literary	18489	A Court of Inquiry	en	Grace S. Richmond
+Detective and Mystery	1849	The Yellow Crayon	en	E. Phillips Oppenheim
+Detective and Mystery	1851	The Woman in the Alcove	en	Anna Katharine Green
+Literary	18545	A Mummer's Tale	en	Anatole France
+Detective and Mystery	1857	Initials Only	en	Anna Katharine Green
+Literary	18572	The President: A Novel	en	Alfred Henry Lewis
+Literary	18705	The Poor Plutocrats	en	Mr Jkai
+Literary	18708	Dr. Dumany's Wife	en	Mr Jkai
+Literary	1875	Painted Windows	en	Elia Wilkinson Peattie
+Detective and Mystery	1878	A Millionaire of Yesterday	en	E. Phillips Oppenheim
+Literary	18822	The House of Martha	en	Frank Richard Stockton
+Literary	18829	Winner Take All	en	Larry Evans
+Detective and Mystery	1888	The Bittermeads Mystery	en	E. R. Punshon
+Literary	18894	Then I'll Come Back to You	en	Larry Evans
+Western Stories	1897	The Seventh Man	en	Max Brand
+Literary	18984	The Starbucks	en	Opie Percival Read
+Detective and Mystery	19147	The House in the Mist	en	Anna Katharine Green
+Literary	19173	The Cow Puncher	en	Robert J. C. Stead
+Literary	19204	Lady Larkspur	en	Meredith Nicholson
+Literary	19224	The Alchemist's Secret	en	Isabel Cecilia Williams
+Literary	19225	Joyce of the North Woods	en	Harriet T. Comstock
+Literary	19257	Michael McGrath- Postmaster	en	Ralph Connor
+Literary	19259	His Heart's Queen	en	Mrs. Georgie Sheldon
+Literary	19459	Born Again	en	Alfred W. Lawson
+Western Stories	19472	Branded	en	Francis Lynde
+Literary	19510	North of Fifty-Three	en	Bertrand W. Sinclair
+Literary	19512	Kate Danton- Captain Danton's Daughters: A Novel	en	May Agnes Fleming
+Detective and Mystery	1960	Sight Unseen	en	Mary Roberts Rinehart
+Detective and Mystery	1963	The Confession	en	Mary Roberts Rinehart
+Literary	19818	Dixie Hart	en	Will N. Harben
+Literary	20235	Heart - A Social Novel	en	Martin Farquhar Tupper
+Literary	20257	A Political Romance	en	Laurence Sterne
+Literary	20458	The Triflers	en	Frederick Orin Bartlett
+Adventure	21067	Overdue: The Story of a Missing Ship	en	Harry Collingwood
+Adventure	21087	The Ghost Ship: A Mystery of the Sea	en	John C. Hutcheson
+Literary	2155	Phyllis of Philistia	en	Frank Frankfort Moore
+Adventure	21578	Rattlin the Reefer	en	Edward Howard
+Literary	21613	On the Stairs	en	Henry Blake Fuller
+Literary	21641	April's Lady: A Novel	en	Duchess|
+Literary	21674	The Making of a Soul	en	Kathlyn Rhodes
+Literary	21689	The Tyranny of Weakness	en	Charles Neville Buck
+Literary	21690	Flint: His Faults- His Friendships and His Fortunes	en	Maud Wilder Goodwin
+Literary	21767	Agatha's Husband: A Novel	en	Dinah Maria Mulock Craik
+Literary	21821	The Mark Of Cain	en	Andrew Lang
+Literary	21858	The Daughters of Danaus	en	Mona Caird
+Literary	21867	Afterwards	en	Kathlyn Rhodes
+Literary	21870	Luna Benamor	en	Vicente Blasco Ibez
+Adventure	21887	Blacksheep! Blacksheep!	en	Meredith Nicholson
+Literary	21932	Embarrassments	en	Henry James
+Literary	21944	The Pleasant Street Partnership: A Neighborhood Story	en	Mary Finley Leonard
+Literary	22158	The Lure of the Mask	en	Harold MacGrath
+Literary	22202	Aunt Rachel - A Rustic Sentimental Comedy	en	David Christie Murray
+Literary	22205	In Direst Peril	en	David Christie Murray
+Literary	22206	An Old Meerschaum - From Coals Of Fire And Other Stories- Volume II. (of III.)	en	David Christie Murray
+Literary	22207	The Romance Of Giovanni Calvotti - From Coals Of Fire And Other Stories- Volume II. (of III.)	en	David Christie Murray
+Literary	22208	Cruel Barbara Allen - From Coals Of Fire And Other Stories- Volume II. (of III.)	en	David Christie Murray
+Literary	22221	Oswald Langdon - Pierre and Paul Lanier. A Romance of 1894-1898	en	Levi Jackson Hamilton
+Detective and Mystery	2287	Havoc	en	E. Phillips Oppenheim
+Romance	22883	Doctor Luttrell's First Patient	en	Rosa Nouchette Carey
+Adventure	23118	A Chinese Command: A Story of Adventure in Eastern Seas	en	Harry Collingwood
+Detective and Mystery	24769	The Opal Serpent	en	Fergus Hume
+Detective and Mystery	26306	Simon	en	Josephine Daskam Bacon
+Detective and Mystery	26482	Madeline Payne- the Detective's Daughter	en	Lawrence L. Lynch
+Detective and Mystery	26925	The Bradys Beyond Their Depth- The Great Swamp Mystery	en	Frederic Mayer Bird
+Detective and Mystery	27549	The Seven Secrets	en	F. Anstey
+Adventure	27909	Dick Leslie's Luck: A Story of Shipwreck and Adventure	en	Will Lillibridge
+Detective and Mystery	28229	Anderson Crow- Detective	en	Gouverneur Morris
+Adventure	29323	An Old Sailor's Yarns	en	N. Ames
+Detective and Mystery	29400	Murder Point: A Tale of Keewatin	en	Coningsby Dawson
+Adventure	30137	Daisy Brooks- A Perilous Love	en	Laura Jean Libbey
+Detective and Mystery	305	The Count's Millions	en	Emile Gaboriau
+Detective and Mystery	30838	Ashton-Kirk- Criminologist	en	John Thomas McIntyre
+Adventure	30980	Kidnapped at the Altar- The Romance of that Saucy Jessie Bain	en	Laura Jean Libbey
+Adventure	31083	The Recipe for Diamonds	en	Charles John Cutcliffe Wright Hyne
+Detective and Mystery	31578	Room Number 3- and Other Detective Stories	en	Anna Katharine Green
+Detective and Mystery	31915	An Artist in Crime	en	Rodrigues Ottolengui
+Adventure	32114	Command	en	William McFee
+Adventure	32516	A Marriage at Sea	en	William Clark Russell
+Adventure	32560	Gerald Fitzgerald- the Chevalier: A Novel	en	Clara Viebig
+Detective and Mystery	32732	Jacob's Ladder	en	E. Phillips Oppenheim
+Detective and Mystery	33004	The Red Rat's Daughter	en	Guy Boothby
+Detective and Mystery	33019	The Green God	en	Frederic Arnold Kummer
+Western Stories	33498	Bransford of Rainbow Range - Originally Published under the title of Bransford in Arcadia- The Little Eohippus	en	Eugene Manlove Rhodes
+Detective and Mystery	33695	X Y Z: A Detective Story	en	Anna Katharine Green
+Detective and Mystery	34035	The Hillman	en	E. Phillips Oppenheim
+Detective and Mystery	34046	Whispering Wires	en	Henry Leverage
+Detective and Mystery	34277	A Mysterious Disappearance	en	Louis Tracy
+Western Stories	34567	Paradise Bend	en	William Patterson White
+Horror and Ghost	34619	The Gateless Barrier	en	Lucas Malet
+Romance	34628	I- Thou- and the Other One: A Love Story	en	Amelia E. Barr
+Detective and Mystery	34664	The Mynns' Mystery	en	George Manville Fenn
+Detective and Mystery	34710	One of My Sons	en	Anna Katharine Green
+Detective and Mystery	34835	The Pagan's Cup	en	Eleanor Hallowell Abbott
+Detective and Mystery	34934	Ã‚Â£19-000	en	Burford Delannoy
+Detective and Mystery	34947	The House of Strange Secrets: A Detective Story	en	A. Eric Bayly
+Detective and Mystery	35003	The House in the Mist	en	Anna Katharine Green
+Western Stories	35078	The Mesa Trail	en	H. Bedford-Jones
+Detective and Mystery	35146	The Solitary Farm	en	Fergus Hume
+Detective and Mystery	35205	Who?	en	Elizabeth Kent
+Detective and Mystery	35254	In the Onyx Lobby	en	Carolyn Wells
+Detective and Mystery	35304	The Last Stroke: A Detective Story	en	Lawrence L. Lynch
+Romance	35358	A Song of a Single Note: A Love Story	en	Amelia E. Barr
+Detective and Mystery	35361	The Wicked Marquis	en	E. Phillips Oppenheim
+Detective and Mystery	35424	The Amethyst Box	en	Anna Katharine Green
+Adventure	35443	Lost Lenore: The Adventures of a Rolling Stone	en	Mayne Reid
+Detective and Mystery	35462	Sharing Her Crime: A Novel	en	May Agnes Fleming
+Detective and Mystery	35484	The Black Eagle Mystery	en	Geraldine Bonner
+Horror and Ghost	35517	The Three Impostors- The Transmutations	en	Arthur Machen
+Adventure	35528	The Secret of the Sands- The "Water Lily" and her Crew	en	Harry Collingwood
+Detective and Mystery	35661	Mysterious Mr. Sabin	en	E. Phillips Oppenheim
+Humor, wit and satire	35787	Plain Mary Smith: A Romance of Red Saunders	en	Henry Wallace Phillips
+Detective and Mystery	35833	The Black Star: A Detective Story	en	Johnston McCulley
+Detective and Mystery	35902	Final Proof- The Value of Evidence	en	Rodrigues Ottolengui
+Romance	36159	The Letter of Credit	en	Susan Warner
+Detective and Mystery	36247	The Red Mouse: A Mystery Romance	en	William Hamilton Osborne
+Detective and Mystery	36366	Dangerous Ground- The Rival Detectives	en	Lawrence L. Lynch
+Adventure	36588	The Red Derelict	en	Bertram Mitford
+Detective and Mystery	36758	Cynthia Wakeham's Money	en	Anna Katharine Green
+Adventure	37081	In Strange Company: A Story of Chili and the Southern Seas	en	Guy Boothby
+Western Stories	37204	The Ranchman	en	Charles Alden Seltzer
+Detective and Mystery	37338	The Crime Doctor	en	E. W. Hornung
+Detective and Mystery	37490	The Gray Phantom's Return	en	Herman Landon
+Romance	37710	Mavis of Green Hill	en	Faith Baldwin
+Humor, wit and satire	3828	Simon the Jester	en	William John Locke
+Detective and Mystery	38888	Out of a Labyrinth	en	Lawrence L. Lynch
+Detective and Mystery	39018	Mr. Marx's Secret	en	E. Phillips Oppenheim
+Detective and Mystery	39417	A Gamble with Life	en	Silas K. Hocking
+Adventure	39616	In the Hands of the Malays- and Other Stories	en	G. A. Henty
+Humor, wit and satire	39905	Upsidonia	en	Archibald Marshall
+Detective and Mystery	39940	Ashton-Kirk- Secret Agent	en	John Thomas McIntyre
+Detective and Mystery	40348	The Crime and the Criminal	en	Richard Marsh
+Horror and Ghost	4046	The Garden of Survival	en	Algernon Blackwood
+Detective and Mystery	40484	Black Star's Campaign: A Detective Story	en	Johnston McCulley
+Detective and Mystery	40491	The Red Lottery Ticket	en	Fortunu Boisgobey
+Detective and Mystery	40493	The King of Diamonds: A Tale of Mystery and Adventure	en	Louis Tracy
+Detective and Mystery	40821	Fighting Byng: A Novel of Mystery- Intrigue and Adventure	en	A. Stone
+Detective and Mystery	41089	The Sign of the Stranger	en	William Le Queux
+Adventure	41313	My Danish Sweetheart: A Novel. Volume 1 of 3	en	William Clark Russell
+Adventure	41314	My Danish Sweetheart: A Novel. Volume 2 of 3	en	William Clark Russell
+Adventure	41315	My Danish Sweetheart: A Novel. Volume 3 of 3	en	William Clark Russell
+Detective and Mystery	41459	The Broken Thread	en	William Le Queux
+Detective and Mystery	41525	The House Opposite: A Mystery	en	Elizabeth Kent
+Detective and Mystery	41790	Quintus Oakes: A Detective Story	en	Charles Ross Jackson
+Detective and Mystery	42010	The Barrel Mystery	en	William J. Flynn
+Western Stories	42115	The Trail-Hunter: A Tale of the Far West	en	Gustave Aimard
+Western Stories	42117	The Pirates of the Prairies: Adventures in the American Desert	en	Gustave Aimard
+Western Stories	42423	Justin Wingate- Ranchman	en	John Harvey Whitson
+Detective and Mystery	42714	The Luminous Face	en	Carolyn Wells
+Detective and Mystery	42807	The Mystery of the Clasped Hands: A Novel	en	Guy Boothby
+Detective and Mystery	42905	Great Porter Square: A Mystery. v. 1	en	B. L. Farjeon
+Detective and Mystery	42906	Great Porter Square: A Mystery. v. 2	en	B. L. Farjeon
+Detective and Mystery	42907	Great Porter Square: A Mystery. v. 3	en	B. L. Farjeon
+Adventure	43716	The Adventurers	en	Gustave Aimard
+Western Stories	43925	The Prairie Flower: A Tale of the Indian Border	en	Gustave Aimard
+Adventure	44375	The Bee Hunters: A Tale of Adventure	en	Gustave Aimard
+Adventure	44454	The Smuggler Chief: A Novel	en	Gustave Aimard
+Horror and Ghost	44581	The Stoneground Ghost Tales - Compiled from the recollections of the reverend Roland Batchel- the vicar of the parish.	en	E. G. Swain
+Detective and Mystery	44841	The Mark of Cain	en	Carolyn Wells
+Detective and Mystery	44872	The Man Who Fell Through the Earth	en	Carolyn Wells
+Detective and Mystery	44984	The Mystery Girl	en	Carolyn Wells
+Western Stories	45047	The Red River Half-Breed: A Tale of the Wild North-West	en	Gustave Aimard
+Western Stories	45401	The Guide of the Desert	en	Gustave Aimard
+Western Stories	45618	Deadwood Dick Jr. Branded- Red Rover at Powder Pocket.	en	Edward L. Wheeler
+Detective and Mystery	45622	The Curved Blades	en	Carolyn Wells
+Detective and Mystery	45636	Stolen Idols	en	E. Phillips Oppenheim
+Detective and Mystery	45912	The Vanishing of Betty Varian	en	Carolyn Wells
+Detective and Mystery	46008	The Room with the Tassels	en	Carolyn Wells
+Detective and Mystery	46064	The Deep Lake Mystery	en	Carolyn Wells
+Detective and Mystery	46402	Harry Blount- the Detective- The Martin Mystery Solved	en	T. J. Flanagan
+Western Stories	46457	White Wolf's Law: A Western Story	en	Hal Dunning
+Romance	4653	God's Good Man: A Simple Love Story	en	Marie Corelli
+Detective and Mystery	46566	The Crime Club	en	W. Holt-White
+Detective and Mystery	46623	At War with Society- Tales of the Outcasts	en	James M'Levy
+Detective and Mystery	4745	At the Villa Rose	en	A. E. W. Mason
+Adventure	48297	A Soldier's Daughter- and Other Stories	en	G. A. Henty
+Romance	4918	The Lilac Sunbonnet: A Love Story	en	S. R. Crockett
+Adventure	4929	The Fashionable Adventures of Joshua Craig: A Novel	en	David Graham Phillips
+Detective and Mystery	50209	The Mystery of the Sycamore	en	Carolyn Wells
+Detective and Mystery	5094	The Romance of Elaine - Sequel to "Exploits of Elaine"	en	Arthur B. Reeve
+Detective and Mystery	5151	The Exploits of Elaine	en	Arthur B. Reeve
+Romance	5165	Innocent : her fancy and his fact	en	Marie Corelli
+Detective and Mystery	5179	A Siren	en	Thomas Adolphus Trollope
+Adventure	525	Youth- a Narrative	en	Joseph Conrad
+Detective and Mystery	547	Baron Trigault's Vengeance	en	Emile Gaboriau
+Humor, wit and satire	587	Danny's Own Story	en	Don Marquis
+Romance	6105	Their Yesterdays	en	Harold Bell Wright
+Romance	6113	A Day of Fate	en	Edward Payson Roe
+Humor, wit and satire	6410	Once Aboard the Lugger-- The History of George and his Mary	en	A. S. M. Hutchinson
+Detective and Mystery	6864	Average Jones	en	Samuel Hopkins Adams
+Horror and Ghost	8182	The Ghost of Guir House	en	Charles Willing Beale
+Adventure	8396	The Gentleman: A Romance of the Sea	en	Alfred Ollivant
+Romance	8899	Three Weeks	en	Elinor Glyn
+Detective and Mystery	9807	Scarhaven Keep	en	J. S. Fletcher
+Adventure	9849	The Brown Mask	en	Percy James Brebner
+Adventure	9927	The Bronze Bell	en	Louis Joseph Vance
+Adventure	13721	Mardi: and A Voyage Thither ||	en	Herman Melville
+Detective and Mystery	2097	The Sign of Four	en	Doyle Connan
+Detective and Mystery	2148	The Works of Edgar Allan Poe II	en	Edgar Allan Poe
+Detective and Mystery	2149	The Works of Edgar Allan Poe III	en	Edgar Allan Poe
+Detective and Mystery	2150	The Works of Edgar Allan Poe IV	en	Edgar Allan Poe
+Adventure	2701	Moby Dick	en	Herman Melville
+Adventure	4045	Omoo Adventures in the South Seas	en	Herman Melville
+Detective and Mystery	834	Memoirs of Shelock Holmes	en	Doyle Connan
+Detective and Mystery	108	The Return of Sherlock Holmes	en	Doyle Connan
+Detective and Mystery	863	The Mysterious Affair at Styles	en	Agatha Christie
+Detective and Mystery	1155	The Secret Adversary	en	Agatha Christie
+Literary	537	Tales of Terror and Mystery	en	Doyle Connan
+Detective and Mystery	2852	The Hound of Baskervilles	en	Doyle Connan
+Literary	1400	Great Expectations	en	Charles Dickens
+Literary	730	Oliver Twist	en	Charles Dickens
+Romance	105	Persuasion	en	Jane Austen
+Romance	1342	Pride and Prejudice	en	Jane Austen
+Romance	141	Mansfield Park	en	Jane Austen
+Romance	161	Sense and Sensibility	en	Jane Austen
+Romance	158	Emma	en	Jane Austen
+Literary	98	A tale of Two Cities	en	Charles Dickens
+Literary	766	David Copperfield 	en	Charles Dickens
+Literary	786	Hard Times	en	Charles Dickens
+Literary	19337	A Christmas Carol	en	Charles Dickens
+Humor, wit and satire	21816	The Confidence Man	en	Herman Melville
+Literary	34970	Pierre or The Ambiguities	en	Herman Melville
+Literary	4397	The Man of Property/Forsyte Saga	en	John Galsworthy
+Literary	2911	Justice (Plays)	en	John Galsworthy
+Literary	4765	Loyalties (Plays)	en	John Galsworthy
+Literary	2684	Five Tales	en	John Galsworthy
+Literary	35263	Menschen im Krieg	de	Latzko, Andreas
+Literary	40294	Der Mord an der Jungfrau	de	Lautensack, Heinrich
+Literary	53614	"Aus Natur und Geisteswelt
+Sammlung wissenschaftlich-gemeinverständlicher Darstellungen
+aus allen Gebieten des Wissens"	de	Teubner, B. G.
+Literary	54353	Des Vaters Sünde, der Mutter Fluch	de	Clauren, Heinrich
+Literary	53946	Ein deutsches Kriegsschiff in der Südsee	de	Werner, Bartholomäus von
+Literary	17169	Der Fall Deruga	de	Huch, Ricarda Octavia
+Literary	27446	Der Hahn von Quakenbrück und andere Novellen	de	Huch, Ricarda Octavia
+Literary	31150	Gottfried Keller	de	Huch, Ricarda Octavia
+Literary	31834	Lebenslauf des heiligen Wonnebald Pück: Eine Erzählung	de	Huch, Ricarda Octavia
+Literary	33827	Das Judengrab; Aus Bimbos Seelenwanderungen: Zwei Erzählungen	de	Huch, Ricarda Octavia
+Literary	39430	Luthers Glaube: Briefe an einen Freund	de	Huch, Ricarda Octavia
+Literary	35181	Geschichte des Zigeunermädchens: Eine Novelle	de	Cervantes Saavedra, Miguel de
+Literary	9623	Wir fanden einen Pfad: Neue Gedichte	de	Morgenstern, Christian
+Literary	12921	Gesammelte Werke in fünf Bänden — 1. Band	de	Morgenstern, Christian
+Literary	15898	Stufen: Eine Entwickelung in Aphorismen und Tagebuch-Notizen	de	Morgenstern, Christian
+Literary	29584	Die Piraterie. Beiträge zum internationalen Seerecht	de	Stiel, Paul
+Literary	35137	Der Tatbestand der Piraterie nach geltendem Völkerrecht	de	Stiel, Paul
+Literary	49934	"Johann Ladislav Pyrker's sämmtliche Werke (3/3)
+Perlen der heiligen Vorzeit"	de	Pyrker, Johann Ladislav
+Literary	46713	Die Bagdadbahn	de	Rohrbach, Paul
+Literary	10223	Meyers Konversationslexikon Band 15	de	Various
+Literary	48211	Kunst und Künstler Almanach 1909	de	Various
+Literary	49083	"Briefe an Ludwig Tieck (1/4)
+Erster Band"	de	Various
+Literary	49084	"Mitteilungen aus dem Germanischen Nationalmuseum
+Jahrgang 1900"	de	Various
+Literary	49209	"Briefe an Ludwig Tieck (3/4)
+Dritter Band"	de	Various
+Literary	49210	"Briefe an Ludwig Tieck (4/4)
+Vierter Band"	de	Various
+Literary	49501	"Anzeiger für Kunde der deutschen Vorzeit (Jg. 26, 1879)
+Neue Folge"	de	Various
+Literary	50299	"Anzeiger für Kunde der deutschen Vorzeit (1866)
+Neue Folge. Dreizehnter Band."	de	Various
+Literary	50628	Lexikon baltischer Künstler	de	Various
+Literary	50669	"Weltreise
+Erster Teil: Indien, China und Japan"	de	Various
+Literary	50683	"Chad Gadja
+Das Peßachbuch"	de	Various
+Literary	50917	Mitteilungen aus dem germanischen Nationalmuseum. Jahrgang 1896	de	Various
+Literary	51360	Französische Lyrik alter und neuer Zeit in deutschen Versen	de	Various
+Literary	52856	"Anzeiger für Kunde der deutschen Vorzeit (1868)
+Neue Folge. Fünfzehnter Band."	de	Various
+Literary	52986	Deutsche Humoristen, 4. und 5. Band (von 8)	de	Various
+Literary	53689	"Anzeiger für Kunde der deutschen Vorzeit, 27. Band, 1880
+Organ des Germanischen Museums"	de	Various
+Literary	38125	Der zunehmende Mond	de	Effenberger, Hans
+Literary	44424	Der Gärtner	de	Effenberger, Hans
+Literary	19163	Märchen für Kinder	de	Andersen, H. C. (Hans Christian)
+Literary	50965	"Märchen (Illustriert von Alfred Kubin)
+Die Nachtigall / Die kleine Seejungfrau / Der Reisekamerad"	de	Andersen, H. C. (Hans Christian)
+Literary	38239	"Die Schön Magelona
+eine fast lustige Historie von dem Ritter mit den silbern Schlüsseln und von der Schönen Magelona gar lustig zu lesen"	de	Anonymous
+Literary	50529	"Der sächsische Prinzenraub nach älteren und neueren Quellen
+nebst einer Beschreibung des zu dessen Erinnerung
+errichteten Denkmals und des zu seinem Schutz erbauten
+Köhlerhauses am Fürstenberge bei Grünhain"	de	Anonymous
+Literary	15711	Frau Bovary	de	Flaubert, Gustave
+Literary	15995	Salambo: Ein Roman aus Alt-Karthago	de	Flaubert, Gustave
+Literary	50911	"Der versiegelte Engel und andere Geschichten
+Der versiegelte Engel / Die Epopöe von Wischnewskij und
+seiner Sippe / Der Toupetkünstler / Anläßlich der
+Kreutzersonate"	de	Leskow, Nikolai
+Literary	50912	"Eine Teufelsaustreibung und andere Geschichten
+Eine Teufelsaustreibung / Das Tier / Interessante Männer
+/ Die Lady Makbeth des Mzensker Landkreises / Der stählerne
+Floh"	de	Leskow, Nikolai
+Literary	46453	Die Regeln des Anstands, der Höflichkeit und der guten Sitte.	de	Lehmann, Ignaz
+Literary	26949	"Vom Musikalisch-Schönen
+Ein Beitrag zur Revision der Ästhetik der Tonkunst"	de	Hanslick, Eduard
+Literary	48256	Spitzen und ihre Charakteristik	de	Jurie, Bertha von
+Literary	47406	Aphorismen zur Lebensweisheit	de	Schopenhauer, Arthur
+Literary	46939	Die Welt in hundert Jahren	de	Brehmer, Artur
+Literary	22355	Schelmuffskys wahrhaftige, kuriöse und sehr gefährliche Reisebeschreibung zu Wasser und zu Lande	de	Reuter, Christian
+Literary	9327	Die zärtlichen Schwestern	de	Gellert, Christian Fürchtegott
+Literary	9335	Fabeln und Erzählungen	de	Gellert, Christian Fürchtegott
+Literary	22167	"C. F. Gellerts Sämmtliche Schriften
+Zweyter Theil"	de	Gellert, Christian Fürchtegott
+Literary	49603	Moderne Geister: Literarische Bildnisse aus dem neunzehnten Jahrhundert	de	Brandes, Georg
+Literary	24176	Jakob von Gunten: Ein Tagebuch	de	Walser, Robert
+Literary	27598	Der Gehülfe	de	Walser, Robert
+Literary	33548	Prosastücke	de	Walser, Robert
+Literary	36172	Geschwister Tanner	de	Walser, Robert
+Literary	37128	Kleine Dichtungen	de	Walser, Robert
+Literary	37579	Aufsätze	de	Walser, Robert
+Literary	39247	Der Spaziergang	de	Walser, Robert
+Literary	41517	Die Schlacht bei Sempach	de	Walser, Robert
+Literary	15787	"Sieben Jahre in Süd-Afrika. Erster Band.
+Erlebnisse, Forschungen und Jagden auf meinen Reisen von den Diamantenfeldern zum Zambesi (1872-1879)."	de	Holub, Emil
+Literary	49132	"Sieben Jahre in Süd-Afrika. Zweiter Band.
+Erlebnisse, Forschungen und Jagden auf meinen Reisen von den Diamantenfeldern zum Zambesi (1872-1879)"	de	Holub, Emil
+Literary	36349	Visionen und andere phantastische Erzählungen	de	Turgenev, Ivan Sergeevich
+Literary	37716	Gedichte in Prosa	de	Turgenev, Ivan Sergeevich
+Literary	6496	Die Braut von Messina	de	Schiller, Friedrich
+Romance	6498	Kabale und Liebe: Ein bürgerliches Trauerspiel	de	Schiller, Friedrich
+Literary	6499	Die Verschwörung des Fiesco zu Genua: Ein republikanisches Trauerspiel	de	Schiller, Friedrich
+Literary	6503	"Der Neffe als Onkel
+Lustspiel in drei Aufzuegen. Aus dem Franzoesischen des Picard"	de	Schiller, Friedrich
+Literary	6504	"Der Parasit, oder, die Kunst sein Glück zu machen
+Ein Lustspiel nach dem Franzoesischen [des Picard]"	de	Schiller, Friedrich
+Literary	6505	Turandot, Prinzessin von China	de	Schiller, Friedrich
+Literary	6518	Wallensteins Lager	de	Schiller, Friedrich
+Literary	6525	Die Piccolomini	de	Schiller, Friedrich
+Literary	6549	Wallensteins Tod	de	Schiller, Friedrich
+Literary	6649	Einige Gedichte	de	Schiller, Friedrich
+Literary	7939	Die Huldigung der Künste	de	Schiller, Friedrich
+Literary	31216	"Briefe Schillers und Goethes an A. W. Schlegel
+Aus den Jahren 1795 bis 1801, und 1797 bis 1824, nebst einem Briefe Schlegels an Schiller"	de	Schiller, Friedrich
+Literary	47804	Die Räuber: Ein Schauspiel	de	Schiller, Friedrich
+Literary	35339	Arme Leute	de	Dostoyevsky, Fyodor
+Literary	38336	Der Großinquisitor	de	Dostoyevsky, Fyodor
+Literary	48527	Der Doppelgänger	de	Dostoyevsky, Fyodor
+Literary	28865	Der Judenstaat: Versuch einer modernen Lösung der Judenfrage	de	Herzl, Theodor
+Literary	42219	Herzl-Worte	de	Herzl, Theodor
+Literary	45672	Aus der Jugendzeit; Historie von der schönen Lau	de	Stassen, Franz
+Literary	43078	Der Occultismus des Altertums	de	Kuhlenbeck, Ludwig
+Literary	20211	Die schönsten Geschichten der Lagerlöf	de	Lagerlöf, Selma
+Literary	28751	Gösta Berling: Erzählungen aus dem alten Wermland	de	Lagerlöf, Selma
+Literary	29957	Ein Stück Lebensgeschichte, und andere Erzählungen	de	Lagerlöf, Selma
+Literary	31114	"Wunderbare Reise des kleinen Nils Holgersson mit den Wildgänsen
+Ein Kinderbuch"	de	Lagerlöf, Selma
+Literary	31145	Liljecronas Heimat	de	Lagerlöf, Selma
+Literary	33041	Unsichtbare Bande: Erzählungen	de	Lagerlöf, Selma
+Literary	47733	Werner von Siemens, der Begründer der modernen Elektrotechnik	de	Fürst, Artur
+Literary	53514	"Die Welt auf Schienen
+Eine Darstellung der Einrichtungen und des Betriebs auf den Eisenbahnen des Fernverkehrs, Nebst einer Geschichte der Eisenbahn"	de	Fürst, Artur
+Literary	51208	"Gedanken über Religion
+Die religiöse Entwicklung eines Naturforschers vom Atheismus
+zum Christentum."	de	Romanes, George John
+Literary	23393	Japanische Märchen	de	Alberti, Karl
+Literary	31129	Der Löwe von Flandern: ein historische Roman aus Alt-Belgien	de	Conscience, Hendrik
+Literary	23787	Märchen-Sammlung	de	Fraungruber, Hans
+Literary	25530	Die Nymphe des Brunnens	de	Fraungruber, Hans
+Literary	24043	Die Weise von Liebe und Tod des Cornets Christoph Rilke	de	Rilke, Rainer Maria
+Literary	27822	Zwei Prager Geschichten	de	Rilke, Rainer Maria
+Literary	31199	Die Letzten	de	Rilke, Rainer Maria
+Literary	33821	Erste Gedichte	de	Rilke, Rainer Maria
+Literary	33863	Neue Gedichte	de	Rilke, Rainer Maria
+Literary	33864	Der Neuen Gedichte: Anderer Teil	de	Rilke, Rainer Maria
+Literary	34521	Das Buch der Bilder	de	Rilke, Rainer Maria
+Literary	38402	Geschichten vom lieben Gott	de	Rilke, Rainer Maria
+Literary	45579	"Auguste Rodin
+Mit 96 Vollbildern"	de	Rilke, Rainer Maria
+Literary	51386	"Auf silbernen Gefilden
+Ein Mond-Roman"	de	Zulawski, Jerzy
+Literary	21917	Eingeschneit: Eine Studentengeschichte	de	Frommel, Emil
+Literary	25783	"Experimentelle Untersuchungen über die Frage »Ist die Furcht vor Krankheitsübertragung durch das Telephon berechtigt«?
+Inaugural-Dissertation zur Erlangung der Doktorwürde in
+der Medizin, Chirurgie und Geburtshülfe der Hohen
+Medizinischen Fakultät der Königlichen Universität
+Greifswald"	de	Weiss, Carl
+Literary	47472	"Fünf Erzählungen
+Mit 28 Holzschnitten von Frans Masereel"	de	Masereel, Frans
+Literary	47710	"Bübü vom Montparnasse
+Ein Roman mit zwanzig Holzschnitten von Frans Masereel"	de	Masereel, Frans
+Literary	47711	Der Ewige Jude	de	Masereel, Frans
+Literary	47713	"Peter und Lutz
+Eine Erzählung mit sechzehn Holzschnitten von Frans Masereel"	de	Masereel, Frans
+Literary	49582	Das Gemeinsame	de	Masereel, Frans
+Literary	52299	Die Karikatur im Weltkriege	de	Schulz-Besser, Ernst
+Literary	52191	"Der unendliche Mensch
+Gedichte"	de	Drey, Arthur
+Literary	21349	Ueber Goethes Hermann und Dorothea	de	Leitzmann, Albert
+Literary	31164	Der violette Tod, und andere Novellen	de	Meyrink, Gustav
+Literary	32014	Fledermäuse: Sieben Geschichten	de	Meyrink, Gustav
+Literary	45936	Das grüne Gesicht: Ein Roman	de	Meyrink, Gustav
+Literary	51476	Der Golem	de	Meyrink, Gustav
+Literary	31309	Der Trotzkopf: Eine Pensionsgeschichte für erwachsene Mädchen	de	Rhoden, Emmy von
+Literary	39529	Geschichte der Neueren Deutschen Chirurgie	de	Küster, Ernst Georg Ferdinand
+Literary	29738	Stille Helden	de	Boy-Ed, Ida
+Literary	17142	Die griechische Tänzerin, und andere Novellen	de	Schnitzler, Arthur
+Literary	18148	Casanovas Heimfahrt	de	Schnitzler, Arthur
+Literary	25204	Der Mörder	de	Schnitzler, Arthur
+Literary	31842	Der Schleier der Pierrette: Pantomime in drei Bildern	de	Schnitzler, Arthur
+Literary	37266	Reigen: Zehn Dialoge	de	Schnitzler, Arthur
+Literary	44238	Das Bildnis des Dorian Gray	de	Wilde, Oscar
+Literary	46845	Zwei Erzählungen	de	Baum, Oskar
+Literary	27769	"Der Fliegende Hollaender
+The Flying Dutchman"	de	Wagner, Richard
+Literary	31963	The Flying Dutchman (Der Fliegende Hollaender): Romantic Opera in Three Acts	de	Wagner, Richard
+Literary	46231	Der brennende Dornbusch; Mörder: Hoffnung der Frauen	de	Kokoschka, Oskar
+Literary	52486	Adelina; oder, Der Abschied vom neunzehnten Lebensjahre. Aufzeichnungen	de	Kokoschka, Oskar
+Literary	49928	Der kleine Ritter (Herr Wolodyjowski): Historischer Roman	de	Sienkiewicz, Henryk
+Literary	19530	Strix: Die Geschichte eines Uhus	de	Fleuron, Svend
+Literary	31218	Flöten und Dolche: Novellen	de	Mann, Heinrich
+Literary	33328	Flaubert und die Herkunft des modernen Romans	de	Mann, Heinrich
+Literary	33329	Der Vater	de	Mann, Heinrich
+Literary	35264	Professor Unrat, oder, Das Ende eines Tyrannen	de	Mann, Heinrich
+Literary	38126	Der Untertan	de	Mann, Heinrich
+Literary	43335	Die Ehrgeizige: Novelle	de	Mann, Heinrich
+Literary	44174	Die kleine Stadt: Roman	de	Mann, Heinrich
+Literary	45123	Zwischen den Rassen: Roman	de	Mann, Heinrich
+Literary	45635	Mnais und Ginevra	de	Mann, Heinrich
+Literary	46157	Die Tote und andere Novellen	de	Mann, Heinrich
+Literary	46987	Die Armen: Ein Roman	de	Mann, Heinrich
+Literary	16718	Mineralogia Polyglotta	de	Keferstein, Christian
+Literary	16304	Der Heizer: Ein Fragment	de	Kafka, Franz
+Literary	21593	Das Urteil: Eine Geschichte	de	Kafka, Franz
+Literary	21989	Ein Landarzt: Kleine Erzählungen	de	Kafka, Franz
+Literary	22367	Die Verwandlung	de	Kafka, Franz
+Literary	23532	Betrachtung	de	Kafka, Franz
+Literary	25791	In der Strafkolonie	de	Kafka, Franz
+Literary	30655	Ein Hungerkünstler	de	Kafka, Franz
+Literary	38395	"Erstes Kapitel des Buches ""Richard und Samuel""
+Die erste lange Eisenbahnfahrt (Prag-Zürich)"	de	Kafka, Franz
+Romance	46880	Gerichtliche Leichen-Oeffnungen. Erstes Hundert.	de	Casper, Johann Ludwig
+Romance	46979	Gerichtliche Leichen-Oeffnungen. Zweites Hundert.	de	Casper, Johann Ludwig
+Romance	21053	An anthology of German literature	de	Thomas, Calvin
+Romance	2499	Siddhartha: eine indische Dichtung	de	Hesse, Hermann
+Romance	17622	Knulp: Drei Geschichten aus dem Leben Knulps	de	Hesse, Hermann
+Romance	41051	Peter Camenzind	de	Hesse, Hermann
+Romance	41818	Hermann Lauscher	de	Hesse, Hermann
+Romance	41907	Demian: Die Geschichte von Emil Sinclairs Jugend	de	Hesse, Hermann
+Romance	42213	Boccaccio	de	Hesse, Hermann
+Romance	42311	Eine Stunde hinter Mitternacht	de	Hesse, Hermann
+Romance	42338	Klingsors letzter Sommer	de	Hesse, Hermann
+Romance	46135	Romantische Lieder	de	Hesse, Hermann
+Romance	47818	Diesseits: Erzählungen	de	Hesse, Hermann
+Romance	49908	Unterm Rad	de	Hesse, Hermann
+Romance	31276	Heinrich von Kleist und die Kantische Philosophie	de	Cassirer, Ernst
+Romance	51289	"Bibliotheca Gynaecologica et Obstetricia oder Verzeichniss aller
+auf dem Gebiete der Gynaekologie und Geburtshülfe in den letzten 20
+jahren 1847-1866 im deutschen Buchhandel erschienenen Bücher und Zeitschriften
+Ein bibliographisches Handbüchlein für Aerzte und Buchhändler"	de	Büchting, Adolph
+Romance	15736	Der Mann von vierzig Jahren	de	Wassermann, Jakob
+Romance	15952	Die Prinzessin Girnara: Weltspiel und Legende	de	Wassermann, Jakob
+Romance	17007	Imaginäre Brücken: Studien und Aufsätze	de	Wassermann, Jakob
+Romance	17143	Der niegeküßte Mund: Drei Erzählungen	de	Wassermann, Jakob
+Romance	17413	Mein Weg als Deutscher und Jude	de	Wassermann, Jakob
+Romance	18258	Deutsche Charaktere und Begebenheiten	de	Wassermann, Jakob
+Romance	18551	Der Wendekreis - Erste Folge: Novellen	de	Wassermann, Jakob
+Romance	18552	Der Wendekreis - Zweite Folge : Oberlins drei Stufen, Sturreganz	de	Wassermann, Jakob
+Romance	19611	Der goldene Spiegel: Erzählungen in einem Rahmen	de	Wassermann, Jakob
+Romance	19940	Die ungleichen Schalen: Fünf einaktige Dramen	de	Wassermann, Jakob
+Romance	20413	Der Moloch	de	Wassermann, Jakob
+Romance	21535	Die Schwestern: Drei Novellen	de	Wassermann, Jakob
+Romance	21860	Olivia oder Die unsichtbare Lampe	de	Wassermann, Jakob
+Romance	25721	Caspar Hauser; oder, Die Trägheit des Herzens, Roman	de	Wassermann, Jakob
+Romance	26402	Engelhart Ratgeber	de	Wassermann, Jakob
+Romance	26444	Schläfst du Mutter?; Ruth. Novellen	de	Wassermann, Jakob
+Romance	32100	Melusine: Ein Liebesroman	de	Wassermann, Jakob
+Romance	36918	Die Schaffnerin; Die Mächtigen: Novellen	de	Wassermann, Jakob
+Fantasy	24523	"Der Sozialismus einst und jetzt
+Streitfragen des Sozialismus in Vergangenheit und Gegenwart"	de	Bernstein, Eduard
+Fantasy	44722	Ferdinand Lassalle: Eine Würdigung des Lehrers und Kämpfers	de	Bernstein, Eduard
+Fantasy	2054	Iphigenie auf Tauris	de	Goethe, Johann Wolfgang von
+Fantasy	2228	Reineke Fuchs	de	Goethe, Johann Wolfgang von
+Fantasy	2229	Faust: Der Tragödie erster Teil	de	Goethe, Johann Wolfgang von
+Fantasy	2230	Faust: Der Tragödie zweiter Teil	de	Goethe, Johann Wolfgang von
+Fantasy	5325	Römische Elegien	de	Goethe, Johann Wolfgang von
+Fantasy	5326	Venetianische Epigramme	de	Goethe, Johann Wolfgang von
+Fantasy	5653	Die Mitschuldigen	de	Goethe, Johann Wolfgang von
+Fantasy	7875	Römische Elegien	de	Goethe, Johann Wolfgang von
+Fantasy	9260	"Prometheus
+Dramatisches Fragment"	de	Goethe, Johann Wolfgang von
+Fantasy	10353	Satyros oder Der vergötterte Waldteufel	de	Goethe, Johann Wolfgang von
+Fantasy	10354	"Die Laune des Verliebten
+Ein Schäferspiel in Versen und einem Akt"	de	Goethe, Johann Wolfgang von
+Fantasy	10425	"Torquato Tasso
+Ein Schauspiel"	de	Goethe, Johann Wolfgang von
+Fantasy	10426	Die natürliche Tochter	de	Goethe, Johann Wolfgang von
+Fantasy	10428	Die Aufgeregten	de	Goethe, Johann Wolfgang von
+Fantasy	17657	Belagerung von Mainz	de	Goethe, Johann Wolfgang von
+Fantasy	17664	Kampagne in Frankreich	de	Goethe, Johann Wolfgang von
+Fantasy	18101	[Einleitung zu:] Thomas Carlyle, Leben Schillers	de	Goethe, Johann Wolfgang von
+Fantasy	21000	Faust: Eine Tragödie	de	Goethe, Johann Wolfgang von
+Fantasy	34059	West-östlicher Divan: Ten Lyrics with Friulian Translation	de	Goethe, Johann Wolfgang von
+Fantasy	46021	Goethes Briefe an Leipziger Freunde	de	Goethe, Johann Wolfgang von
+Fantasy	48919	"Goethe und Werther
+Briefe Goethe's, meistens aus seiner Jugendzeit"	de	Goethe, Johann Wolfgang von
+Fantasy	49024	Goethes Briefe an Auguste zu Stolberg	de	Goethe, Johann Wolfgang von
+Fantasy	49593	"Briefe von Goethe an Lavater
+Aus den Jahren 1774 bis 1783"	de	Goethe, Johann Wolfgang von
+Juvenile fiction	54368	"Die Harpyen von Madrit, oder die Postkutsche
+Aus dem Spanischen des Verfassers der Donna Rufina"	de	Solórzano, Alonso de Castillo
+Juvenile fiction	7943	Die Argonauten	de	Grillparzer, Franz
+Juvenile fiction	7944	Der Gastfreund	de	Grillparzer, Franz
+Juvenile fiction	7945	Medea	de	Grillparzer, Franz
+Juvenile fiction	7946	Das goldene Vließ	de	Grillparzer, Franz
+Juvenile fiction	7996	Der Traum ein Leben	de	Grillparzer, Franz
+Juvenile fiction	8568	Des Meeres und der Liebe Wellen: Trauerspiel in fünf Aufzügen	de	Grillparzer, Franz
+Juvenile fiction	8961	Der arme Spielmann	de	Grillparzer, Franz
+Juvenile fiction	8964	Ein Bruderzwist in Habsburg	de	Grillparzer, Franz
+Juvenile fiction	8999	Das Kloster bei Sendomir	de	Grillparzer, Franz
+Juvenile fiction	9044	"Weh dem, der lügt
+Lustspiel in fünf Aufzügen"	de	Grillparzer, Franz
+Juvenile fiction	9045	"Die Jüdin von Toledo
+Historisches Trauerspiel in fünf Aufzügen"	de	Grillparzer, Franz
+Juvenile fiction	9046	"König Ottokars Glück und Ende
+Trauerspiel in fünf Aufzügen"	de	Grillparzer, Franz
+Juvenile fiction	9049	"Libussa
+Trauerspiel in fünf Aufzügen"	de	Grillparzer, Franz
+Juvenile fiction	9058	Ein treuer Diener seines Herrn	de	Grillparzer, Franz
+Juvenile fiction	9062	"Sappho
+Ein Trauerspiel in fünf Aufzügen"	de	Grillparzer, Franz
+Juvenile fiction	9181	Die Ahnfrau	de	Grillparzer, Franz
+Juvenile fiction	18475	Nach Amerika! Ein Volksbuch. Erster Band	de	Gerstäcker, Friedrich
+Juvenile fiction	19675	Herrn Mahlhubers Reiseabenteuer	de	Gerstäcker, Friedrich
+Juvenile fiction	20412	Tahiti: Roman aus der Südsee. Erster Band.	de	Gerstäcker, Friedrich
+Juvenile fiction	20944	Nach Amerika! Ein Volksbuch. Zweiter Band.	de	Gerstäcker, Friedrich
+Juvenile fiction	28243	Nach Amerika! Ein Volksbuch. Vierter Band	de	Gerstäcker, Friedrich
+Juvenile fiction	29102	Nach Amerika! Ein Volksbuch. Fünfter Band	de	Gerstäcker, Friedrich
+Juvenile fiction	29464	Tahiti: Roman aus der Südsee. Zweiter Band.	de	Gerstäcker, Friedrich
+Juvenile fiction	29746	Nach Amerika! Ein Volksbuch. Dritter Band	de	Gerstäcker, Friedrich
+Juvenile fiction	30289	Nach Amerika! Ein Volksbuch. Sechster Band	de	Gerstäcker, Friedrich
+Juvenile fiction	30631	Die Colonie: Brasilianisches Lebensbild. Erster Band.	de	Gerstäcker, Friedrich
+Juvenile fiction	30814	Die Colonie: Brasilianisches Lebensbild. Zweiter Band.	de	Gerstäcker, Friedrich
+Juvenile fiction	33003	Der Wahnsinnige: Eine Erzählung aus Südamerika	de	Gerstäcker, Friedrich
+Juvenile fiction	33017	Amerikanische Wald- und Strombilder. Erster Band.	de	Gerstäcker, Friedrich
+Juvenile fiction	35651	Inselwelt. Erster Band. Indische Skizzen	de	Gerstäcker, Friedrich
+Juvenile fiction	38451	Tahiti: Roman aus der Südsee. Dritter Band.	de	Gerstäcker, Friedrich
+Juvenile fiction	39545	Die Colonie: Brasilianisches Lebensbild. Dritter Band	de	Gerstäcker, Friedrich
+Juvenile fiction	41585	Amerikanische Wald- und Strombilder. Zweiter Band.	de	Gerstäcker, Friedrich
+Juvenile fiction	43892	"Ein Parcerie-Vertrag
+Erzählung zur Warnung und Belehrung für Auswanderer und ihre Freunde"	de	Gerstäcker, Friedrich
+Juvenile fiction	43913	Aus dem Matrosenleben	de	Gerstäcker, Friedrich
+Juvenile fiction	44239	"Unter Palmen und Buchen. Erster Band.
+Unter Buchen. Gesammelte Erzählungen."	de	Gerstäcker, Friedrich
+Juvenile fiction	45534	"Unter Palmen und Buchen. Zweiter Band.
+Unter Palmen. Gesammelte Erzählungen."	de	Gerstäcker, Friedrich
+Juvenile fiction	45569	Wanderbilder aus Central-Amerika. Skizzen eines deutschen Malers	de	Gerstäcker, Friedrich
+Juvenile fiction	45977	"Eine Mutter
+Roman im Anschluß an »die Colonie«"	de	Gerstäcker, Friedrich
+Juvenile fiction	46053	Der Kunstreiter, 1. Band	de	Gerstäcker, Friedrich
+Juvenile fiction	46061	Der Kunstreiter, 2. Band	de	Gerstäcker, Friedrich
+Juvenile fiction	46062	Der Kunstreiter, 3. Band	de	Gerstäcker, Friedrich
+Juvenile fiction	46073	"Inselwelt. Zweiter Band. Australische Skizzen.
+Gesammelte Erzählungen."	de	Gerstäcker, Friedrich
+Juvenile fiction	46083	Tahiti: Roman aus der Südsee. Vierter Band	de	Gerstäcker, Friedrich
+Juvenile fiction	46368	Pfarre und Schule: Eine Dorfgeschichte. Erster Band.	de	Gerstäcker, Friedrich
+Juvenile fiction	46410	Pfarre und Schule: Eine Dorfgeschichte. Zweiter Band.	de	Gerstäcker, Friedrich
+Juvenile fiction	46442	Pfarre und Schule: Eine Dorfgeschichte. Dritter Band.	de	Gerstäcker, Friedrich
+Juvenile fiction	46465	Der Erbe: Roman. Dritter Band.	de	Gerstäcker, Friedrich
+Juvenile fiction	46504	Der Erbe: Roman. Zweiter Band.	de	Gerstäcker, Friedrich
+Juvenile fiction	46539	Der Erbe: Roman. Erster Band.	de	Gerstäcker, Friedrich
+Juvenile fiction	48036	Unter Palmen und Buchen. Dritter Band.	de	Gerstäcker, Friedrich
+Juvenile fiction	50187	"Aus zwei Welttheilen, Erster Band.
+Gesammelte Erzählungen"	de	Gerstäcker, Friedrich
+Juvenile fiction	50252	Eine Gemsjagd in Tyrol	de	Gerstäcker, Friedrich
+Juvenile fiction	53100	"Aus zwei Welttheilen. Zweiter Band.
+Gesammelte Erzählungen"	de	Gerstäcker, Friedrich
+Juvenile fiction	54422	Californische Skizzen	de	Gerstäcker, Friedrich
+Juvenile fiction	54555	"Kreuz und Quer, Erster Band
+Neue gesammelte Erzählungen"	de	Gerstäcker, Friedrich
+Juvenile fiction	54875	"Kreuz und Quer, Zweiter Band
+Neue gesammelte Erzählungen"	de	Gerstäcker, Friedrich
+Juvenile fiction	40391	Der Dichter in Dollarica	de	Wolzogen, Ernst von
+Juvenile fiction	39816	Macchiavellis Buch vom Fürsten	de	Machiavelli, Niccolò
+Juvenile fiction	24173	Brennendes Geheimnis: Erzählung	de	Zweig, Stefan
+Juvenile fiction	30281	Die Räuberbande	de	Frank, Leonhard
+Juvenile fiction	35176	Der Mensch ist gut	de	Frank, Leonhard
+Juvenile fiction	36389	Drei Meister: Balzac, Dickens, Dostojewski	de	Zweig, Stefan
+Juvenile fiction	38686	Die Liebe der Erika Ewald: Novellen	de	Zweig, Stefan
+Juvenile fiction	40564	Jeremias: Eine dramatische Dichtung in neun Bildern	de	Zweig, Stefan
+Juvenile fiction	45548	Kindheit	de	Frank, Leonhard
+Juvenile fiction	46928	Die Ursache: Erzählung	de	Frank, Leonhard
+Juvenile fiction	20302	Der Ketzer von Soana	de	Hauptmann, Gerhart
+Juvenile fiction	29376	Bahnwärter Thiel	de	Hauptmann, Gerhart
+Juvenile fiction	45009	Gabriel Schillings Flucht: Drama	de	Hauptmann, Gerhart
+Juvenile fiction	52218	Vor Sonnenaufgang: Soziales Drama	de	Hauptmann, Gerhart
+Juvenile fiction	52952	Die Ratten: Berliner Tragikomödie	de	Hauptmann, Gerhart
+Juvenile fiction	39678	In Dingsda	de	Schlaf, Johannes
+Juvenile fiction	40733	Frühling	de	Schlaf, Johannes
+Juvenile fiction	48097	Stille Welten: Neue Stimmungen aus Dingsda	de	Schlaf, Johannes
+Juvenile fiction	52892	Die Familie Selicke	de	Schlaf, Johannes
+Juvenile fiction	6638	Märchen-Almanach auf das Jahr 1826	de	Hauff, Wilhelm
+Juvenile fiction	6639	Märchen-Almanach auf das Jahr 1827	de	Hauff, Wilhelm
+Juvenile fiction	6640	Märchen-Almanach auf das Jahr 1828	de	Hauff, Wilhelm
+Juvenile fiction	6725	Othello	de	Hauff, Wilhelm
+Juvenile fiction	6726	Lichtenstein	de	Hauff, Wilhelm
+Juvenile fiction	6890	Mitteilungen aus den Memoiren des Satan — Band 1	de	Hauff, Wilhelm
+Juvenile fiction	6891	Mitteilungen aus den Memoiren des Satan — Band 2	de	Hauff, Wilhelm
+Juvenile fiction	6892	Mitteilungen aus den Memoiren des Satan	de	Hauff, Wilhelm
+Juvenile fiction	13451	"Der Mann im Mond
+Oder der Zug des Herzens ist des Schicksals Stimme, nebst der Kontrovers-Predigt über H. Clauren und den Mann im Mond"	de	Hauff, Wilhelm
+Juvenile fiction	13452	"Kontrovers-Predigt über H. Clauren und den Mann im Mond
+Gehalten vor dem deutschen Publikum in der Herbstmesse 1827"	de	Hauff, Wilhelm
+Juvenile fiction	44642	Kleine deutsche Sprachlehre	de	Bohm, Hermann
+Juvenile fiction	44197	"Die Schädigung der Rasse
+durch soziales und wirtschaftliches Aufsteigen bewiesen an den Berliner Juden"	de	Theilhaber, Felix A. (Felix Aaron)
+Juvenile fiction	45434	Der Untergang der Deutschen Juden: Eine Volkswirtschaftliche Studie	de	Theilhaber, Felix A. (Felix Aaron)
+Juvenile fiction	45808	Die Juden Im Weltkriege	de	Theilhaber, Felix A. (Felix Aaron)
+Juvenile fiction	50393	Jüdische Flieger im Kriege, ein Blatt der Erinnerung	de	Theilhaber, Felix A. (Felix Aaron)
+Juvenile fiction	51467	"Harbaugh's Harfe
+Gedichte in Pennsylvanisch-Deutscher Mundart"	de	Harbaugh, Henry
+Juvenile fiction	49938	"Sämmtliche Werke 1-2: Mein Leben / Spaziergang nach Syrakus im Jahre 1802
+Vierte rechtmäßige Gesammtausgabe in acht Bänden"	de	Seume, Johann Gottfried
+Juvenile fiction	6651	Immensee	de	Storm, Theodor
+Juvenile fiction	8889	Aquis Submersus	de	Storm, Theodor
+Juvenile fiction	8895	Auf der Universität Lore	de	Storm, Theodor
+Juvenile fiction	8915	"Hinzelmeier
+eine nachdenkliche Geschichte"	de	Storm, Theodor
+Juvenile fiction	8916	Bulemanns Haus	de	Storm, Theodor
+Juvenile fiction	8917	Von Kindern und Katzen, und wie sie die Nine begruben	de	Storm, Theodor
+Juvenile fiction	8919	"Pole Poppenspäler
+Novelle (1874)"	de	Storm, Theodor
+Juvenile fiction	8921	Waldwinkel	de	Storm, Theodor
+Juvenile fiction	8922	Viola Tricolor	de	Storm, Theodor
+Juvenile fiction	8923	Die Regentrude	de	Storm, Theodor
+Juvenile fiction	8925	Der Spiegel des Cyprianus	de	Storm, Theodor
+Juvenile fiction	8926	"In St. Jürgen
+Novelle (1867)"	de	Storm, Theodor
+Juvenile fiction	8927	Auf dem Staatshof	de	Storm, Theodor
+Juvenile fiction	20977	"Im Sonnenschein
+Novelle"	de	Storm, Theodor
+Juvenile fiction	24212	"Im Saal
+Novelle"	de	Storm, Theodor
+Juvenile fiction	24213	"Marthe und ihre Uhr
+Novelle"	de	Storm, Theodor
+Juvenile fiction	24214	"Im Brauerhause
+Novelle"	de	Storm, Theodor
+Juvenile fiction	44452	Wolkenüberflaggt: Gedichte	de	Lotz, Ernst Wilhelm
+Juvenile fiction	12113	Eine vornehme Frau	de	Heiberg, Hermann
+Juvenile fiction	12273	Grevinde	de	Heiberg, Hermann
+Juvenile fiction	12927	Charaktere und Schicksale	de	Heiberg, Hermann
+Juvenile fiction	13805	Todsünden	de	Heiberg, Hermann
+Juvenile fiction	24371	Die Inselbauern; oder, Die Leute auf Hemsö	de	Schering, Emil
+Juvenile fiction	45916	Inferno; Legenden	de	Schering, Emil
+Juvenile fiction	51558	Die Entwicklung des gutsherrlich-bäuerlichen Verhältnisses in Galizien (1772-1848)	de	Mises, Ludwig von
+Juvenile fiction	44272	Schwarz-Weiß-Rot: Grotesken	de	Mynona
+Juvenile fiction	38281	Der König Candaules: Drama in drei Akten	de	Blei, Franz
+Juvenile fiction	46268	Die Musen: Eine Ode	de	Blei, Franz
+Juvenile fiction	46912	Der Schwierige: Lustspiel in drei Akten	de	Hofmannsthal, Hugo von
+Juvenile fiction	43163	Die schwarzen Brüder: Eine abentheuerliche Geschichte. 1/3	de	Zschokke, Heinrich
+Juvenile fiction	43164	Die schwarzen Brüder: Eine abentheuerliche Geschichte. 2/3	de	Zschokke, Heinrich
+Juvenile fiction	43165	Die schwarzen Brüder: Eine abentheuerliche Geschichte. 3/3	de	Zschokke, Heinrich
+Juvenile fiction	47318	Deutsche Humoristen, 2. Band (von 8)	de	Zschokke, Heinrich
+Juvenile fiction	52718	Abaellino der große Bandit	de	Zschokke, Heinrich
+Juvenile fiction	47872	Mein Lied	de	Rosegger, Peter
+Juvenile fiction	52985	Deutsche Humoristen, 1. Band (von 8)	de	Rosegger, Peter
+Juvenile fiction	54597	Fremde Straßen	de	Rosegger, Peter
+Juvenile fiction	6004	Helden	de	Shaw, Bernard
+Juvenile fiction	9491	Candida: Ein Mysterium in drei Akten	de	Shaw, Bernard
+Juvenile fiction	9802	Der Mann des Schicksals: Komödie in einem Akt	de	Shaw, Bernard
+Juvenile fiction	9810	Man kann nie wissen: Komödie in vier Akten	de	Shaw, Bernard
+Juvenile fiction	47077	Der Amateursozialist: Roman	de	Shaw, Bernard
+Juvenile fiction	48639	Gestalten der Wildnis	de	Roberts, Charles G. D., Sir
+Juvenile fiction	39174	Prinzessin Mymra: Novellen und Träume	de	Remizov, Aleksei
+Juvenile fiction	39175	Legenden und Geschichten	de	Remizov, Aleksei
+Juvenile fiction	22159	Gespenster: Ein Familiendrama in drei Aufzügen	de	Ibsen, Henrik
+Juvenile fiction	23679	Baumeister Solneß: Schauspiel in drei Aufzügen	de	Ibsen, Henrik
+Juvenile fiction	36997	Rosmersholm: Schauspiel in vier Aufzügen	de	Ibsen, Henrik
+Juvenile fiction	49824	"Kindheit
+Autobiographische Novelle"	de	Heß, Adolf
+Juvenile fiction	22493	Ein Heiratsantrag: Scherz in einem Aufzug	de	Flachs-Fokschaneanu, Luise
+Juvenile fiction	22494	Der Bär: Groteske in einem Aufzug	de	Flachs-Fokschaneanu, Luise
+Juvenile fiction	29905	"Viribus unitis
+Wie könnte die europäische Cultur nach Bosnien verpflanzt werden?"	de	Neupauer, Josef
+Travel	39619	Trotzkopf als Grossmutter	de	Herbst, Anna
+Travel	26261	Die Frau von dreißig Jahren	de	Heichen, Walter
+Travel	38295	Von der Macht des Gemüts, durch den bloßen Vorsatz seiner krankhaften Gefühle Meister zu sein	de	Hufeland, Christoph Wilhelm
+Travel	35939	Beobachtungen über Oesterreichs Aufklärung und Litteratur	de	Blumauer, Aloys
+Travel	8085	Die Göttliche Komödie	de	Dante Alighieri
+Travel	38505	Der gläserne Garten: Zwei Novellen	de	Goll, Claire
+Travel	33726	Die hauptsächlichsten Theorien der Geometrie	de	Loria, Gino
+Travel	21021	Die Biene Maja und ihre Abenteuer	de	Bonsels, Waldemar
+Travel	24377	Indienfahrt	de	Bonsels, Waldemar
+Travel	27220	Himmelsvolk: Ein Buch von Blumen, Tieren und Gott	de	Bonsels, Waldemar
+Travel	33603	Eros und die Evangelien, aus den Notizen eines Vagabunden	de	Bonsels, Waldemar
+Travel	34265	Das Anjekind: Eine Erzählung	de	Bonsels, Waldemar
+Travel	38650	Wartalun: Der Niedergang eines Geschlechts	de	Bonsels, Waldemar
+Travel	47202	Blut: Eine Erzählung	de	Bonsels, Waldemar
+Travel	51254	"Norby
+Eine dramatische Dichtung"	de	Bonsels, Waldemar
+Travel	40298	Junge Pferde! Junge Pferde!	de	Boldt, Paul
+Travel	40314	Yester und Li: Die Geschichte einer Sehnsucht	de	Kellermann, Bernhard
+Travel	40771	Ingeborg	de	Kellermann, Bernhard
+Travel	41882	Der Tor: Roman	de	Kellermann, Bernhard
+Travel	42339	Das Meer: Roman	de	Kellermann, Bernhard
+Travel	43333	Der 9. November: Roman	de	Kellermann, Bernhard
+Travel	43339	Die Heiligen	de	Kellermann, Bernhard
+Travel	44489	Der Tunnel: Roman	de	Kellermann, Bernhard
+Travel	24899	Platons Gastmahl	de	Plato
+Travel	16264	Deutsches Leben der Gegenwart	de	Sommerfeld, Arnold
+Travel	52171	"Sturz der Verdammten
+Gedichte"	de	Urzidil, Johannes
+Travel	14915	Das Nibelungenlied	de	Unknown
+Travel	22628	"New-Yorker Staats-Zeitung, 16. Oktober 1915
+Vol. I. No. 34."	de	Unknown
+History	44537	Das Leben Tolstois	de	Sylvester, O. R.
+History	43759	Geflügelte Worte: Der Citatenschatz des deutschen Volkes	de	Büchmann, Georg
+History	23756	Geschichte Alexanders des Grossen	de	Droysen, Johann Gustav
+History	51901	"Novellen
+Hausgenossen. — Und Doch! — Der tolle Junker. —
+Finderlohn. — Glück muß man haben!"	de	Arnold, Hans
+History	51349	"Sicherer Wegweiser zu einer guten und gesunden Wohnung
+Zwei Preisschriften"	de	Balmer-Rinck, Johann Jakob
+History	53973	"Max Butziwackel der Ameisenkaiser
+Ein Buch für Kinder und große Leute"	de	Koch, Luise von
+History	54391	"Schilderungen des Treibens im Leben und Handel in den Vereinigten Staaten und Havana.
+Gezeichnet auf Reisen in den Jahren 1838 und 1839"	de	Ries, Julius
+History	31213	Schlupps, der Handwerksbursch; Mären und Schnurren	de	Fromberg, Clara
+History	48502	"Der Held von Uganda
+Leben und Wirken des Pioniermissionars Alexander Mackay"	de	Schneider, Carl
+History	4371	Jenseits der Schriftkultur — Band 1	de	Nadin, Mihai
+History	4372	Jenseits der Schriftkultur — Band 2	de	Nadin, Mihai
+History	4373	Jenseits der Schriftkultur — Band 3	de	Nadin, Mihai
+History	4374	Jenseits der Schriftkultur — Band 4	de	Nadin, Mihai
+History	4375	Jenseits der Schriftkultur — Band 5	de	Nadin, Mihai
+History	41320	Severins Gang in die Finsternis: Ein Prager Gespensterroman	de	Leppin, Paul
+History	52335	"Wir Menschen
+Gedichte"	de	Hartmann, Walther Georg
+History	28664	Langsam-Schnellzüge in Österreich	de	Ignotus
+History	27532	Betrachtungen über die Grundlagen der Philosophie	de	Descartes, René
+History	24206	Sturmzeichen	de	Skowronnek, Richard
+History	52879	Neuestes Süddeutsches Kochbuch für alle Stände	de	Schiller, Viktorine
+Literary	34064	Der Courier des Czaar (Michael Strogoff)	de	Verne, Jules
+Literary	46180	Der Findling. Erster Band.	de	Verne, Jules
+Literary	46174	Der Findling. Zweiter Band.	de	Verne, Jules
+Literary	44830	Die neuesten Geschichtslügen	de	Kanner, Heinrich
+Literary	25019	Ein Drama in Mexico.	de	Verne, Jules
+Literary	15559	Robur der Sieger	de	Verne, Jules
+Juvenile fiction	5323	Effi Briest	de	Theodor Fontane
+Juvenile fiction	9108	Emilia Galotti	de	Gotthold Ephraim Lessing
+History	5072	Dantons Tod	de	Georg Büchner
+History	6079	Deutschland. Ein Wintermaerchen	de	Heinrich Heine
+Travel	49395	"Oesterreich im Jahre 2020
+Socialpolitischer Roman"	de	Neupauer, Josef von
+Travel	47941	Das Labyrinth: Ein Lebenslauf aus dem 18. Jahrhundert	de	Seidel, Ina
+Travel	21527	Weihnachtserzählungen	de	Schwayer, Adolf
+Travel	12053	Gladius Dei; Schwere Stunde	de	Mann, Thomas
+Travel	12108	Der Tod in Venedig	de	Mann, Thomas
+Travel	13810	Tristan	de	Mann, Thomas
+Travel	23313	Tonio Kröger	de	Mann, Thomas
+Travel	34811	Buddenbrooks: Verfall einer Familie	de	Mann, Thomas
+Travel	35328	Königliche Hoheit: Roman	de	Mann, Thomas
+Travel	36766	Der kleine Herr Friedemann: Novellen	de	Mann, Thomas
+Travel	38692	"Tonio Kröger
+[Erstausgabe; Illustrationen von Erich M. Simon]"	de	Mann, Thomas
+Travel	54690	"Der Hodscha Nasreddin I. Band
+Türkische, arabische, berberische, maltesische,
+sizilianische, kalabrische, kroatische, serbische und
+griechische Märlein und"	de	Wesselski, Albert
+Travel	54691	"Der Hodscha Nasreddin II. Band
+Türkische, arabische, berberische, maltesische,
+sizilianische, kalabrische, kroatische, serbische und
+griechische Märlein und"	de	Wesselski, Albert
+Travel	8392	Hin und Her: Ein Buch für die Kinder	de	Fick, H. H. (Henry H.)
+Travel	14700	Die Menschen der Ehe	de	Mackay, John Henry
+Travel	15068	Der Schwimmer	de	Mackay, John Henry
+Travel	46767	Die Bekanntschaft auf der Reise	de	Ahlefeld, Charlotte von
+Travel	44243	Zarastro: Westliche Tage	de	Kolb, Annette
+Travel	44251	Kurze Aufsätze	de	Kolb, Annette
+Travel	44258	Die Last	de	Kolb, Annette
+Travel	44298	Das Exemplar	de	Kolb, Annette
+Travel	45661	L'Âme aux deux patries: Sieben Studien	de	Kolb, Annette
+Travel	46204	Wege und Umwege	de	Kolb, Annette
+Travel	46550	Briefe einer Deutsch-Französin	de	Kolb, Annette
+Travel	46903	Das Lob der Narrheit	de	Erasmus, Desiderius
+Travel	49424	Die Schatzinsel: Roman	de	Stevenson, Robert Louis
+Travel	52725	Harck Olufs aus der Insul Amron im Stifte Ripen in Jütland, gebürtig, sonderbare Avanturen, so sich mit ihm insonderheit zu Constantine und an andern Orten in Africa zugetragen.	de	Olufs, Hark
+Travel	53780	Der Weihnacht-Abend	de	Schilling, Gustav
+History	42900	Gänsemütterchens Märchen	de	Doré, Gustave
+History	48965	Fauna der Nassauischen Mollusken	de	Kobelt, Wilhelm
+History	7068	Das Haidedorf	de	Stifter, Adalbert
+History	8126	Der Nachsommer	de	Stifter, Adalbert
+History	29553	Bunte Steine: Ein Festgeschenk	de	Stifter, Adalbert
+History	15891	Französisch-slavische Kämpfe in der Bocca di Cattaro 1806-1814.	de	Velimirovi?, Nikolaj
+History	39650	Das heilige Donnerwetter. Ein Blücherroman	de	Paul, Adolf
+History	51051	"Die Tänzerin Barberina
+Roman aus der Zeit Friedrich des Grossen"	de	Paul, Adolf
+History	49722	Briefe aus Aulestad an seine Tochter Bergliot Ibsen	de	Ibsen, Bergliot
+History	48158	"Die Bibliothek meines Oheims
+Eine Genfer Novelle"	de	Töpffer, Rudolf
+History	8803	Große und kleine Welt	de	Balzac, Honoré de
+History	49995	»1906«. Der Zusammenbruch der alten Welt	de	Grautoff, Ferdinand Heinrich

@@ -1,0 +1,14 @@
+{
+  "/fiction": {
+    "target": "http://localhost:4500/fiction/",
+    "secure": false,
+    "logLevel": "debug",
+    "changeOrigin": true
+  },
+  "/track": {
+    "target": "http://localhost:4500/track/",
+    "secure": false,
+    "logLevel": "debug",
+    "changeOrigin": true
+  }
+}
